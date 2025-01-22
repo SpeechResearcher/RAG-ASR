@@ -2,7 +2,7 @@
 
 > RAG-ASR for TTS-Enhanced Speech Prompts
 
-![](./fig/Speech-Prompt Driven In- Context Learning.png)
+![](./fig/fig1.png)
 
 ### Dataset: English_Accent_DataSet
 
