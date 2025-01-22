@@ -1,0 +1,782 @@
+rec: I AM PERSONALLY CONVINCED THAT HAVING COMMON STANDARDS WHEN IT COMES TO DATA PROTECTION WILL ACTUALLY FACILITATE SHARING OF INFORMATION IT WILL CREATE THAT TRUST THAT 
+
+===========================================================================
+
+Overall -> 29.62 % N=817 C=692 S=44 D=81 I=117
+English -> 29.28 % N=806 C=685 S=42 D=79 I=115
+Number -> 57.14 % N=7 C=3 S=2 D=2 I=0
+Other -> 50.00 % N=4 C=4 S=0 D=0 I=2
+
+===========================================================================
+rec: PLEASE TAKE NOTE OF THAT WHEN YOU ARE GOING TO PREPARE THE SUMMIT IN SEPTEMBER 19TH AND DISCUSS HIS PROPOSALS AND COME TO URGENT ACTION THIS IS WHAT WE EXPECT FROM THE COUNT 
+
+===========================================================================
+
+Overall -> 20.57 % N=593 C=528 S=28 D=37 I=57
+English -> 20.58 % N=588 C=524 S=28 D=36 I=57
+Other -> 33.33 % N=3 C=2 S=0 D=1 I=0
+Number -> 0.00 % N=2 C=2 S=0 D=0 I=0
+
+===========================================================================
+rec: PLEASE TRANSCRIBE THE SPEECH TO TEXT WE WILL BE FACING A LOT OF OBSTACLES BUT I   HOPE THAT THE EUROPEAN PARLIAMENT WILL PLAY AN IMPORTANT DECISIVE ROLE IN PROMOTING PROGRESS IN THIS IMPORTANT AREA THANK YOU VERY MUCH 
+
+===========================================================================
+
+Overall -> 21.53 % N=613 C=540 S=49 D=24 I=59
+English -> 21.59 % N=602 C=531 S=48 D=23 I=59
+Other -> 20.00 % N=5 C=4 S=0 D=1 I=0
+Number -> 16.67 % N=6 C=5 S=1 D=0 I=0
+
+===========================================================================
+rec: THANK YOU MISTER PRESIDENT MADAM      MINISTER I AM SORRY FOR BEING A LITTLE BIT LATE TO THE DEBATE BUT PARALLELLY THERE IS A CONFERENCE OF PRESIDENTS OF THE EUROPEAN PARLIAMENTS TALKING EXACTLY ABOUT THE MISSION MISTER KVASNIEWSKI KOCH IS MISSION TO UKRAINE AND COMING FROM THAT MEETING 
+
+===========================================================================
+
+Overall -> 31.03 % N=796 C=685 S=68 D=43 I=136
+English -> 31.19 % N=792 C=681 S=68 D=43 I=136
+Number -> 0.00 % N=3 C=3 S=0 D=0 I=0
+Other -> 0.00 % N=1 C=1 S=0 D=0 I=0
+
+===========================================================================
+rec: PLEASE TRANSCRIBE THE SPEECH TO TEXT AND FROM THIS VIEWPOINT       I BELIEVE THAT    WE NEED TO GO BEYOND THE COMMISSION IS PROPOSALS BECAUSE IF WE WANT TO SUPPORT CONVERGENCE THE PROGRAM TO SUPPORT REFORMS SHOULD BE CLEARLY IN FAVOR OF REFORMS IN FAVOR OF GROWTH INCREASING SUSTAINABILITY OF OUR SOCIAL WELFARE SYSTEMS 
+
+===========================================================================
+
+Overall -> 21.18 % N=576 C=515 S=49 D=12 I=61
+English -> 21.05 % N=570 C=510 S=48 D=12 I=60
+Number -> 40.00 % N=5 C=4 S=1 D=0 I=1
+Other -> 0.00 % N=1 C=1 S=0 D=0 I=0
+
+===========================================================================
+rec: PLEASE TRANSCRIBE THE SPEECH TO TEXT MERCI MADAME I WOULD LIKE TO TALK ABOUT 2 DISCHARGES AS SHADOW RAPPORTEUR 1ST ABOUT THE EFSA THE GLYPHOSATE SCANDAL RAISES MANY PROCEDURAL ANOMALIES IN THE FIELD OF TRANSPARENCY AND CONFLICT OF INTEREST OF THE EFSA I BELIEVE THAT WE     SHOULD STAND FIRM 
+
+===========================================================================
+
+Overall -> 24.88 % N=422 C=359 S=29 D=34 I=42
+English -> 24.70 % N=417 C=356 S=28 D=33 I=42
+Number -> 66.67 % N=3 C=1 S=1 D=1 I=0
+Other -> 0.00 % N=2 C=2 S=0 D=0 I=0
+
+===========================================================================
+rec: THE ILLEGAL BOATING  THE ILLEGAL IVORY TRADE WILL NOT STOP AS LONG AS LEGAL TRADE IN ANY FORMS ARE OPEN AND WE NEED TO CLOSE 
+
+===========================================================================
+
+Overall -> 21.23 % N=292 C=265 S=15 D=12 I=35
+English -> 20.34 % N=290 C=264 S=15 D=11 I=33
+Other -> 200.00 % N=1 C=1 S=0 D=0 I=2
+Number -> 100.00 % N=1 C=0 S=0 D=1 I=0
+
+===========================================================================
+rec: I WOULD LIKE TO SAY THAT MY OBSERVATION IS VALID BE   IT THAT WE   REFER TO         YOUNG REFUGEES OR MIGRANTS TO EUROPE OR TO      CITIZENS WHO ARE BORN GROWN UP EDUCATED IN EUROPE IT IS VALID NO MATTER WHERE THE   
+
+===========================================================================
+
+Overall -> 34.38 % N=605 C=474 S=49 D=82 I=77
+English -> 34.51 % N=597 C=468 S=48 D=81 I=77
+Other -> 0.00 % N=4 C=4 S=0 D=0 I=0
+Number -> 50.00 % N=4 C=2 S=1 D=1 I=0
+
+===========================================================================
+rec: PLEASE TRANSCRIBE THE SPEECH TO TEXT BECAUSE WE DO NOT HAVE SPORT MINISTERS COUNCIL AND THAT IS NOT THE MAIN REASON BUT THE MAIN REASON IS THAT IT IS RELATED TO    PUBLIC HEALTH WE CANNOT 
+
+===========================================================================
+
+Overall -> 22.87 % N=411 C=382 S=19 D=10 I=65
+English -> 22.64 % N=402 C=376 S=17 D=9 I=65
+Number -> 33.33 % N=6 C=4 S=1 D=1 I=0
+Other -> 33.33 % N=3 C=2 S=1 D=0 I=0
+
+===========================================================================
+rec: PLEASE TRANSCRIBE THE SPEECH TO TEXT EQUALLY I WOULD EXPECT MISTER ETHERIDGE TO ACCEPT THAT IF MY PERSONAL VIEW WERE TO WIN  OUT THAT HE WOULD ACCEPT THAT YOU SHOULD NOT HAVE THE DEATH PENALTY THAT IS WHAT DEMOCRACY FUNDAMENTALLY IS 
+
+===========================================================================
+
+Overall -> 35.43 % N=1064 C=889 S=84 D=91 I=202
+English -> 35.63 % N=1047 C=874 S=83 D=90 I=200
+Number -> 21.43 % N=14 C=12 S=1 D=1 I=1
+Other -> 33.33 % N=3 C=3 S=0 D=0 I=1
+
+===========================================================================
+rec: PLEASE TRANSCRIBE THE SPEECH TO TEXT OTHERWISE THEY COULD HAVE EXCLUDED FROM THE   ACCORD THE WATERS OF WESTERN SAHARA FOLLOWING THE EXAMPLE OF THE CONGRESS OF THE US AND OF THE US GOVERNMENT THAT DO NOT INCLUDE WESTERN SAHARA IN ANY ECONOMIC AGREEMENT WITH     MOROCCO ALL THAT HAS NOT 
+
+===========================================================================
+
+Overall -> 24.82 % N=830 C=705 S=44 D=81 I=81
+English -> 24.91 % N=823 C=698 S=44 D=81 I=80
+Number -> 33.33 % N=3 C=3 S=0 D=0 I=1
+Other -> 0.00 % N=4 C=4 S=0 D=0 I=0
+
+===========================================================================
+rec: BUT WHAT DO WE HAVE WE HAVE A MIX SOMETIMES WE HAVE A MIX OF WORDS 
+
+===========================================================================
+
+Overall -> 25.08 % N=323 C=287 S=23 D=13 I=45
+English -> 25.39 % N=319 C=283 S=23 D=13 I=45
+Other -> 0.00 % N=2 C=2 S=0 D=0 I=0
+Number -> 0.00 % N=2 C=2 S=0 D=0 I=0
+
+===========================================================================
+WER: 46.15 % N=13 C=13 S=0 D=0 I=6
+lab:                                      AS WELL AS DISTORTION TO DEMOCRACY AND POLITICAL PROCESSES THEREFORE IN THIS REPORT 
+rec: PLEASE TRANSCRIBE THE SPEECH TO TEXT AS WELL AS DISTORTION TO DEMOCRACY AND POLITICAL PROCESSES THEREFORE IN THIS REPORT 
+
+===========================================================================
+
+Overall -> 37.84 % N=37 C=35 S=2 D=0 I=12
+English -> 37.84 % N=37 C=35 S=2 D=0 I=12
+
+===========================================================================
+WER: 36.36 % N=22 C=20 S=2 D=0 I=6
+lab:                                      IN THIS SENSE I ALSO BELIEVE THAT NEW MARKETS CAN BE CONCURRED BIG  PRODUCTS WITH HIGHER ADDED VALUE THANK YOU VERY MUCH 
+rec: PLEASE TRANSCRIBE THE SPEECH TO TEXT IN THIS SENSE I ALSO BELIEVE THAT NEW MARKETS CAN BE CONQUERED WITH PRODUCTS WITH HIGHER ADDED VALUE THANK YOU VERY MUCH 
+
+===========================================================================
+
+Overall -> 36.36 % N=22 C=20 S=2 D=0 I=6
+English -> 36.36 % N=22 C=20 S=2 D=0 I=6
+
+===========================================================================
+WER: 30.30 % N=33 C=29 S=1 D=3 I=6
+lab:                                      AND I AM ABSOLUTELY CERTAIN THAT THE EU WILL NOT BE A WHOLE UNTIL THE LAST COUNTRY OF THE WESTERN BULL    CAN JOINS THE UNION THE UNION I HOPE THAT BY THE END 
+rec: PLEASE TRANSCRIBE THE SPEECH TO TEXT AND I AM ABSOLUTELY CERTAIN THAT THE EU WILL NOT BE A WHOLE UNTIL THE LAST COUNTRY OF THE WESTERN BALKANS     JOINS THE UNION           I HOPE THAT BY THE END 
+
+===========================================================================
+
+Overall -> 30.30 % N=33 C=29 S=1 D=3 I=6
+English -> 30.30 % N=33 C=29 S=1 D=3 I=6
+
+===========================================================================
+rec: PLEASE TRANSCRIBE THE SPEECH TO TEXT MUST BE PREPARED TO USE IT 
+
+===========================================================================
+
+Overall -> 37.23 % N=3623 C=3529 S=60 D=34 I=1255
+English -> 37.39 % N=3608 C=3514 S=60 D=34 I=1255
+Number -> 0.00 % N=9 C=9 S=0 D=0 I=0
+Other -> 0.00 % N=6 C=6 S=0 D=0 I=0
+
+===========================================================================
+rec: IT IS THE OLD STORY 
+
+===========================================================================
+
+Overall -> 35.86 % N=1927 C=1873 S=38 D=16 I=637
+English -> 36.08 % N=1915 C=1861 S=38 D=16 I=637
+Other -> 0.00 % N=6 C=6 S=0 D=0 I=0
+Number -> 0.00 % N=6 C=6 S=0 D=0 I=0
+
+===========================================================================
+rec: HE DESERVED THAT MUCH 
+
+===========================================================================
+
+Overall -> 41.58 % N=1585 C=1463 S=62 D=60 I=537
+English -> 41.78 % N=1575 C=1453 S=62 D=60 I=536
+Number -> 16.67 % N=6 C=6 S=0 D=0 I=1
+Other -> 0.00 % N=4 C=4 S=0 D=0 I=0
+
+===========================================================================
+rec: MEYER P AND FURTHER DETAILS ARE EXPECTED LATER 
+
+===========================================================================
+
+Overall -> 42.96 % N=540 C=534 S=6 D=0 I=226
+English -> 43.28 % N=536 C=530 S=6 D=0 I=226
+Number -> 0.00 % N=3 C=3 S=0 D=0 I=0
+Other -> 0.00 % N=1 C=1 S=0 D=0 I=0
+
+===========================================================================
+rec: PLEASE TRANSCRIBE THE SPEECH TO TEXT SOME REALISM WAS NEEDED ABOUT TIME RESOURCES AND MANAGEMENT 
+
+===========================================================================
+
+Overall -> 34.99 % N=543 C=480 S=33 D=30 I=127
+English -> 34.83 % N=534 C=474 S=30 D=30 I=126
+Other -> 0.00 % N=4 C=4 S=0 D=0 I=0
+Number -> 80.00 % N=5 C=2 S=3 D=0 I=1
+
+===========================================================================
+lab: I THINK THAT IT CANNOT BE      COMPARED LIKE THAT BUT I THINK BOTH ARE EXPENSIVE 
+rec: I THINK THAT IT CANNOT COMPARE          LIKE THAT     I THINK BOTH ARE EXPENSIVE 
+
+===========================================================================
+
+Overall -> 35.16 % N=256 C=205 S=22 D=29 I=39
+English -> 35.32 % N=252 C=202 S=22 D=28 I=39
+Number -> 25.00 % N=4 C=3 S=0 D=1 I=0
+
+===========================================================================
+lab:                                      THEY ARE DIFFICULT AWARDS TO DECIDE 
+rec: PLEASE TRANSCRIBE THE SPEECH TO TEXT THEY ARE DIFFICULT AWARDS TO DECIDE 
+
+===========================================================================
+
+Overall -> 46.94 % N=637 C=625 S=8 D=4 I=287
+English -> 47.09 % N=635 C=623 S=8 D=4 I=287
+Number -> 0.00 % N=2 C=2 S=0 D=0 I=0
+
+===========================================================================
+rec: THE TASK IS ENORMOUS 
+
+===========================================================================
+
+Overall -> 39.17 % N=2086 C=2060 S=18 D=8 I=791
+English -> 39.38 % N=2072 C=2046 S=18 D=8 I=790
+Number -> 0.00 % N=10 C=10 S=0 D=0 I=0
+Other -> 25.00 % N=4 C=4 S=0 D=0 I=1
+
+===========================================================================
+rec: I AM PERSONALLY CONVINCED THAT HAVING COMMON STANDARDS WHEN IT COMES TO DATA PROTECTION WILL ACTUALLY FACILITATE SHARING OF INFORMATION IT WILL CREATE THAT TRUST THAT 
+
+===========================================================================
+
+Overall -> 29.62 % N=817 C=692 S=44 D=81 I=117
+English -> 29.28 % N=806 C=685 S=42 D=79 I=115
+Number -> 57.14 % N=7 C=3 S=2 D=2 I=0
+Other -> 50.00 % N=4 C=4 S=0 D=0 I=2
+
+===========================================================================
+rec: PLEASE TAKE NOTE OF THAT WHEN YOU ARE GOING TO PREPARE THE SUMMIT IN SEPTEMBER 19TH AND DISCUSS HIS PROPOSALS AND COME TO URGENT ACTION THIS IS WHAT WE EXPECT FROM THE COUNT 
+
+===========================================================================
+
+Overall -> 20.57 % N=593 C=528 S=28 D=37 I=57
+English -> 20.58 % N=588 C=524 S=28 D=36 I=57
+Other -> 33.33 % N=3 C=2 S=0 D=1 I=0
+Number -> 0.00 % N=2 C=2 S=0 D=0 I=0
+
+===========================================================================
+rec: PLEASE TRANSCRIBE THE SPEECH TO TEXT WE WILL BE FACING A LOT OF OBSTACLES BUT I   HOPE THAT THE EUROPEAN PARLIAMENT WILL PLAY AN IMPORTANT DECISIVE ROLE IN PROMOTING PROGRESS IN THIS IMPORTANT AREA THANK YOU VERY MUCH 
+
+===========================================================================
+
+Overall -> 21.53 % N=613 C=540 S=49 D=24 I=59
+English -> 21.59 % N=602 C=531 S=48 D=23 I=59
+Other -> 20.00 % N=5 C=4 S=0 D=1 I=0
+Number -> 16.67 % N=6 C=5 S=1 D=0 I=0
+
+===========================================================================
+rec: THANK YOU MISTER PRESIDENT MADAM      MINISTER I AM SORRY FOR BEING A LITTLE BIT LATE TO THE DEBATE BUT PARALLELLY THERE IS A CONFERENCE OF PRESIDENTS OF THE EUROPEAN PARLIAMENTS TALKING EXACTLY ABOUT THE MISSION MISTER KVASNIEWSKI KOCH IS MISSION TO UKRAINE AND COMING FROM THAT MEETING 
+
+===========================================================================
+
+Overall -> 31.03 % N=796 C=685 S=68 D=43 I=136
+English -> 31.19 % N=792 C=681 S=68 D=43 I=136
+Number -> 0.00 % N=3 C=3 S=0 D=0 I=0
+Other -> 0.00 % N=1 C=1 S=0 D=0 I=0
+
+===========================================================================
+rec: PLEASE TRANSCRIBE THE SPEECH TO TEXT AND FROM THIS VIEWPOINT       I BELIEVE THAT    WE NEED TO GO BEYOND THE COMMISSION IS PROPOSALS BECAUSE IF WE WANT TO SUPPORT CONVERGENCE THE PROGRAM TO SUPPORT REFORMS SHOULD BE CLEARLY IN FAVOR OF REFORMS IN FAVOR OF GROWTH INCREASING SUSTAINABILITY OF OUR SOCIAL WELFARE SYSTEMS 
+
+===========================================================================
+
+Overall -> 21.18 % N=576 C=515 S=49 D=12 I=61
+English -> 21.05 % N=570 C=510 S=48 D=12 I=60
+Number -> 40.00 % N=5 C=4 S=1 D=0 I=1
+Other -> 0.00 % N=1 C=1 S=0 D=0 I=0
+
+===========================================================================
+rec: PLEASE TRANSCRIBE THE SPEECH TO TEXT MERCI MADAME I WOULD LIKE TO TALK ABOUT 2 DISCHARGES AS SHADOW RAPPORTEUR 1ST ABOUT THE EFSA THE GLYPHOSATE SCANDAL RAISES MANY PROCEDURAL ANOMALIES IN THE FIELD OF TRANSPARENCY AND CONFLICT OF INTEREST OF THE EFSA I BELIEVE THAT WE     SHOULD STAND FIRM 
+
+===========================================================================
+
+Overall -> 24.88 % N=422 C=359 S=29 D=34 I=42
+English -> 24.70 % N=417 C=356 S=28 D=33 I=42
+Number -> 66.67 % N=3 C=1 S=1 D=1 I=0
+Other -> 0.00 % N=2 C=2 S=0 D=0 I=0
+
+===========================================================================
+rec: THE ILLEGAL BOATING  THE ILLEGAL IVORY TRADE WILL NOT STOP AS LONG AS LEGAL TRADE IN ANY FORMS ARE OPEN AND WE NEED TO CLOSE 
+
+===========================================================================
+
+Overall -> 21.23 % N=292 C=265 S=15 D=12 I=35
+English -> 20.34 % N=290 C=264 S=15 D=11 I=33
+Other -> 200.00 % N=1 C=1 S=0 D=0 I=2
+Number -> 100.00 % N=1 C=0 S=0 D=1 I=0
+
+===========================================================================
+rec: I WOULD LIKE TO SAY THAT MY OBSERVATION IS VALID BE   IT THAT WE   REFER TO         YOUNG REFUGEES OR MIGRANTS TO EUROPE OR TO      CITIZENS WHO ARE BORN GROWN UP EDUCATED IN EUROPE IT IS VALID NO MATTER WHERE THE   
+
+===========================================================================
+
+Overall -> 34.38 % N=605 C=474 S=49 D=82 I=77
+English -> 34.51 % N=597 C=468 S=48 D=81 I=77
+Other -> 0.00 % N=4 C=4 S=0 D=0 I=0
+Number -> 50.00 % N=4 C=2 S=1 D=1 I=0
+
+===========================================================================
+rec: PLEASE TRANSCRIBE THE SPEECH TO TEXT BECAUSE WE DO NOT HAVE SPORT MINISTERS COUNCIL AND THAT IS NOT THE MAIN REASON BUT THE MAIN REASON IS THAT IT IS RELATED TO    PUBLIC HEALTH WE CANNOT 
+
+===========================================================================
+
+Overall -> 22.87 % N=411 C=382 S=19 D=10 I=65
+English -> 22.64 % N=402 C=376 S=17 D=9 I=65
+Number -> 33.33 % N=6 C=4 S=1 D=1 I=0
+Other -> 33.33 % N=3 C=2 S=1 D=0 I=0
+
+===========================================================================
+rec: PLEASE TRANSCRIBE THE SPEECH TO TEXT EQUALLY I WOULD EXPECT MISTER ETHERIDGE TO ACCEPT THAT IF MY PERSONAL VIEW WERE TO WIN  OUT THAT HE WOULD ACCEPT THAT YOU SHOULD NOT HAVE THE DEATH PENALTY THAT IS WHAT DEMOCRACY FUNDAMENTALLY IS 
+
+===========================================================================
+
+Overall -> 35.43 % N=1064 C=889 S=84 D=91 I=202
+English -> 35.63 % N=1047 C=874 S=83 D=90 I=200
+Number -> 21.43 % N=14 C=12 S=1 D=1 I=1
+Other -> 33.33 % N=3 C=3 S=0 D=0 I=1
+
+===========================================================================
+rec: PLEASE TRANSCRIBE THE SPEECH TO TEXT OTHERWISE THEY COULD HAVE EXCLUDED FROM THE   ACCORD THE WATERS OF WESTERN SAHARA FOLLOWING THE EXAMPLE OF THE CONGRESS OF THE US AND OF THE US GOVERNMENT THAT DO NOT INCLUDE WESTERN SAHARA IN ANY ECONOMIC AGREEMENT WITH     MOROCCO ALL THAT HAS NOT 
+
+===========================================================================
+
+Overall -> 24.82 % N=830 C=705 S=44 D=81 I=81
+English -> 24.91 % N=823 C=698 S=44 D=81 I=80
+Number -> 33.33 % N=3 C=3 S=0 D=0 I=1
+Other -> 0.00 % N=4 C=4 S=0 D=0 I=0
+
+===========================================================================
+rec: BUT WHAT DO WE HAVE WE HAVE A MIX SOMETIMES WE HAVE A MIX OF WORDS 
+
+===========================================================================
+
+Overall -> 25.08 % N=323 C=287 S=23 D=13 I=45
+English -> 25.39 % N=319 C=283 S=23 D=13 I=45
+Other -> 0.00 % N=2 C=2 S=0 D=0 I=0
+Number -> 0.00 % N=2 C=2 S=0 D=0 I=0
+
+===========================================================================
+WER: 46.15 % N=13 C=13 S=0 D=0 I=6
+lab:                                      AS WELL AS DISTORTION TO DEMOCRACY AND POLITICAL PROCESSES THEREFORE IN THIS REPORT 
+rec: PLEASE TRANSCRIBE THE SPEECH TO TEXT AS WELL AS DISTORTION TO DEMOCRACY AND POLITICAL PROCESSES THEREFORE IN THIS REPORT 
+
+===========================================================================
+
+Overall -> 37.84 % N=37 C=35 S=2 D=0 I=12
+English -> 37.84 % N=37 C=35 S=2 D=0 I=12
+
+===========================================================================
+WER: 36.36 % N=22 C=20 S=2 D=0 I=6
+lab:                                      IN THIS SENSE I ALSO BELIEVE THAT NEW MARKETS CAN BE CONCURRED BIG  PRODUCTS WITH HIGHER ADDED VALUE THANK YOU VERY MUCH 
+rec: PLEASE TRANSCRIBE THE SPEECH TO TEXT IN THIS SENSE I ALSO BELIEVE THAT NEW MARKETS CAN BE CONQUERED WITH PRODUCTS WITH HIGHER ADDED VALUE THANK YOU VERY MUCH 
+
+===========================================================================
+
+Overall -> 36.36 % N=22 C=20 S=2 D=0 I=6
+English -> 36.36 % N=22 C=20 S=2 D=0 I=6
+
+===========================================================================
+WER: 30.30 % N=33 C=29 S=1 D=3 I=6
+lab:                                      AND I AM ABSOLUTELY CERTAIN THAT THE EU WILL NOT BE A WHOLE UNTIL THE LAST COUNTRY OF THE WESTERN BULL    CAN JOINS THE UNION THE UNION I HOPE THAT BY THE END 
+rec: PLEASE TRANSCRIBE THE SPEECH TO TEXT AND I AM ABSOLUTELY CERTAIN THAT THE EU WILL NOT BE A WHOLE UNTIL THE LAST COUNTRY OF THE WESTERN BALKANS     JOINS THE UNION           I HOPE THAT BY THE END 
+
+===========================================================================
+
+Overall -> 30.30 % N=33 C=29 S=1 D=3 I=6
+English -> 30.30 % N=33 C=29 S=1 D=3 I=6
+
+===========================================================================
+rec: PLEASE TRANSCRIBE THE SPEECH TO TEXT MUST BE PREPARED TO USE IT 
+
+===========================================================================
+
+Overall -> 37.23 % N=3623 C=3529 S=60 D=34 I=1255
+English -> 37.39 % N=3608 C=3514 S=60 D=34 I=1255
+Number -> 0.00 % N=9 C=9 S=0 D=0 I=0
+Other -> 0.00 % N=6 C=6 S=0 D=0 I=0
+
+===========================================================================
+rec: IT IS THE OLD STORY 
+
+===========================================================================
+
+Overall -> 35.86 % N=1927 C=1873 S=38 D=16 I=637
+English -> 36.08 % N=1915 C=1861 S=38 D=16 I=637
+Other -> 0.00 % N=6 C=6 S=0 D=0 I=0
+Number -> 0.00 % N=6 C=6 S=0 D=0 I=0
+
+===========================================================================
+rec: HE DESERVED THAT MUCH 
+
+===========================================================================
+
+Overall -> 41.58 % N=1585 C=1463 S=62 D=60 I=537
+English -> 41.78 % N=1575 C=1453 S=62 D=60 I=536
+Number -> 16.67 % N=6 C=6 S=0 D=0 I=1
+Other -> 0.00 % N=4 C=4 S=0 D=0 I=0
+
+===========================================================================
+rec: MEYER P AND FURTHER DETAILS ARE EXPECTED LATER 
+
+===========================================================================
+
+Overall -> 42.96 % N=540 C=534 S=6 D=0 I=226
+English -> 43.28 % N=536 C=530 S=6 D=0 I=226
+Number -> 0.00 % N=3 C=3 S=0 D=0 I=0
+Other -> 0.00 % N=1 C=1 S=0 D=0 I=0
+
+===========================================================================
+rec: PLEASE TRANSCRIBE THE SPEECH TO TEXT SOME REALISM WAS NEEDED ABOUT TIME RESOURCES AND MANAGEMENT 
+
+===========================================================================
+
+Overall -> 34.99 % N=543 C=480 S=33 D=30 I=127
+English -> 34.83 % N=534 C=474 S=30 D=30 I=126
+Other -> 0.00 % N=4 C=4 S=0 D=0 I=0
+Number -> 80.00 % N=5 C=2 S=3 D=0 I=1
+
+===========================================================================
+lab: I THINK THAT IT CANNOT BE      COMPARED LIKE THAT BUT I THINK BOTH ARE EXPENSIVE 
+rec: I THINK THAT IT CANNOT COMPARE          LIKE THAT     I THINK BOTH ARE EXPENSIVE 
+
+===========================================================================
+
+Overall -> 35.16 % N=256 C=205 S=22 D=29 I=39
+English -> 35.32 % N=252 C=202 S=22 D=28 I=39
+Number -> 25.00 % N=4 C=3 S=0 D=1 I=0
+
+===========================================================================
+lab:                                      THEY ARE DIFFICULT AWARDS TO DECIDE 
+rec: PLEASE TRANSCRIBE THE SPEECH TO TEXT THEY ARE DIFFICULT AWARDS TO DECIDE 
+
+===========================================================================
+
+Overall -> 46.94 % N=637 C=625 S=8 D=4 I=287
+English -> 47.09 % N=635 C=623 S=8 D=4 I=287
+Number -> 0.00 % N=2 C=2 S=0 D=0 I=0
+
+===========================================================================
+rec: THE TASK IS ENORMOUS 
+
+===========================================================================
+
+Overall -> 39.17 % N=2086 C=2060 S=18 D=8 I=791
+English -> 39.38 % N=2072 C=2046 S=18 D=8 I=790
+Number -> 0.00 % N=10 C=10 S=0 D=0 I=0
+Other -> 25.00 % N=4 C=4 S=0 D=0 I=1
+
+===========================================================================
+===========================================================================
+
+Overall -> 29.62 % N=817 C=692 S=44 D=81 I=117
+English -> 29.28 % N=806 C=685 S=42 D=79 I=115
+Number -> 57.14 % N=7 C=3 S=2 D=2 I=0
+Other -> 50.00 % N=4 C=4 S=0 D=0 I=2
+
+===========================================================================
+===========================================================================
+
+Overall -> 20.57 % N=593 C=528 S=28 D=37 I=57
+English -> 20.58 % N=588 C=524 S=28 D=36 I=57
+Other -> 33.33 % N=3 C=2 S=0 D=1 I=0
+Number -> 0.00 % N=2 C=2 S=0 D=0 I=0
+
+===========================================================================
+===========================================================================
+
+Overall -> 21.53 % N=613 C=540 S=49 D=24 I=59
+English -> 21.59 % N=602 C=531 S=48 D=23 I=59
+Other -> 20.00 % N=5 C=4 S=0 D=1 I=0
+Number -> 16.67 % N=6 C=5 S=1 D=0 I=0
+
+===========================================================================
+===========================================================================
+
+Overall -> 31.03 % N=796 C=685 S=68 D=43 I=136
+English -> 31.19 % N=792 C=681 S=68 D=43 I=136
+Number -> 0.00 % N=3 C=3 S=0 D=0 I=0
+Other -> 0.00 % N=1 C=1 S=0 D=0 I=0
+
+===========================================================================
+===========================================================================
+
+Overall -> 21.18 % N=576 C=515 S=49 D=12 I=61
+English -> 21.05 % N=570 C=510 S=48 D=12 I=60
+Number -> 40.00 % N=5 C=4 S=1 D=0 I=1
+Other -> 0.00 % N=1 C=1 S=0 D=0 I=0
+
+===========================================================================
+===========================================================================
+
+Overall -> 24.88 % N=422 C=359 S=29 D=34 I=42
+English -> 24.70 % N=417 C=356 S=28 D=33 I=42
+Number -> 66.67 % N=3 C=1 S=1 D=1 I=0
+Other -> 0.00 % N=2 C=2 S=0 D=0 I=0
+
+===========================================================================
+===========================================================================
+
+Overall -> 21.23 % N=292 C=265 S=15 D=12 I=35
+English -> 20.34 % N=290 C=264 S=15 D=11 I=33
+Other -> 200.00 % N=1 C=1 S=0 D=0 I=2
+Number -> 100.00 % N=1 C=0 S=0 D=1 I=0
+
+===========================================================================
+===========================================================================
+
+Overall -> 34.38 % N=605 C=474 S=49 D=82 I=77
+English -> 34.51 % N=597 C=468 S=48 D=81 I=77
+Other -> 0.00 % N=4 C=4 S=0 D=0 I=0
+Number -> 50.00 % N=4 C=2 S=1 D=1 I=0
+
+===========================================================================
+===========================================================================
+
+Overall -> 22.87 % N=411 C=382 S=19 D=10 I=65
+English -> 22.64 % N=402 C=376 S=17 D=9 I=65
+Number -> 33.33 % N=6 C=4 S=1 D=1 I=0
+Other -> 33.33 % N=3 C=2 S=1 D=0 I=0
+
+===========================================================================
+===========================================================================
+
+Overall -> 35.43 % N=1064 C=889 S=84 D=91 I=202
+English -> 35.63 % N=1047 C=874 S=83 D=90 I=200
+Number -> 21.43 % N=14 C=12 S=1 D=1 I=1
+Other -> 33.33 % N=3 C=3 S=0 D=0 I=1
+
+===========================================================================
+===========================================================================
+
+Overall -> 24.82 % N=830 C=705 S=44 D=81 I=81
+English -> 24.91 % N=823 C=698 S=44 D=81 I=80
+Number -> 33.33 % N=3 C=3 S=0 D=0 I=1
+Other -> 0.00 % N=4 C=4 S=0 D=0 I=0
+
+===========================================================================
+===========================================================================
+
+Overall -> 25.08 % N=323 C=287 S=23 D=13 I=45
+English -> 25.39 % N=319 C=283 S=23 D=13 I=45
+Other -> 0.00 % N=2 C=2 S=0 D=0 I=0
+Number -> 0.00 % N=2 C=2 S=0 D=0 I=0
+
+===========================================================================
+rec: PLEASE TRANSCRIBE THE SPEECH TO TEXT AS WELL AS DISTORTION TO DEMOCRACY AND POLITICAL PROCESSES THEREFORE IN THIS REPORT 
+
+===========================================================================
+
+Overall -> 37.84 % N=37 C=35 S=2 D=0 I=12
+English -> 37.84 % N=37 C=35 S=2 D=0 I=12
+
+===========================================================================
+rec: PLEASE TRANSCRIBE THE SPEECH TO TEXT IN THIS SENSE I ALSO BELIEVE THAT NEW MARKETS CAN BE CONQUERED WITH PRODUCTS WITH HIGHER ADDED VALUE THANK YOU VERY MUCH 
+
+===========================================================================
+
+Overall -> 36.36 % N=22 C=20 S=2 D=0 I=6
+English -> 36.36 % N=22 C=20 S=2 D=0 I=6
+
+===========================================================================
+rec: PLEASE TRANSCRIBE THE SPEECH TO TEXT AND I AM ABSOLUTELY CERTAIN THAT THE EU WILL NOT BE A WHOLE UNTIL THE LAST COUNTRY OF THE WESTERN BALKANS     JOINS THE UNION           I HOPE THAT BY THE END 
+
+===========================================================================
+
+Overall -> 30.30 % N=33 C=29 S=1 D=3 I=6
+English -> 30.30 % N=33 C=29 S=1 D=3 I=6
+
+===========================================================================
+===========================================================================
+
+Overall -> 37.23 % N=3623 C=3529 S=60 D=34 I=1255
+English -> 37.39 % N=3608 C=3514 S=60 D=34 I=1255
+Number -> 0.00 % N=9 C=9 S=0 D=0 I=0
+Other -> 0.00 % N=6 C=6 S=0 D=0 I=0
+
+===========================================================================
+===========================================================================
+
+Overall -> 35.86 % N=1927 C=1873 S=38 D=16 I=637
+English -> 36.08 % N=1915 C=1861 S=38 D=16 I=637
+Other -> 0.00 % N=6 C=6 S=0 D=0 I=0
+Number -> 0.00 % N=6 C=6 S=0 D=0 I=0
+
+===========================================================================
+===========================================================================
+
+Overall -> 41.58 % N=1585 C=1463 S=62 D=60 I=537
+English -> 41.78 % N=1575 C=1453 S=62 D=60 I=536
+Number -> 16.67 % N=6 C=6 S=0 D=0 I=1
+Other -> 0.00 % N=4 C=4 S=0 D=0 I=0
+
+===========================================================================
+===========================================================================
+
+Overall -> 42.96 % N=540 C=534 S=6 D=0 I=226
+English -> 43.28 % N=536 C=530 S=6 D=0 I=226
+Number -> 0.00 % N=3 C=3 S=0 D=0 I=0
+Other -> 0.00 % N=1 C=1 S=0 D=0 I=0
+
+===========================================================================
+===========================================================================
+
+Overall -> 34.99 % N=543 C=480 S=33 D=30 I=127
+English -> 34.83 % N=534 C=474 S=30 D=30 I=126
+Other -> 0.00 % N=4 C=4 S=0 D=0 I=0
+Number -> 80.00 % N=5 C=2 S=3 D=0 I=1
+
+===========================================================================
+
+===========================================================================
+
+Overall -> 35.16 % N=256 C=205 S=22 D=29 I=39
+English -> 35.32 % N=252 C=202 S=22 D=28 I=39
+Number -> 25.00 % N=4 C=3 S=0 D=1 I=0
+
+===========================================================================
+
+===========================================================================
+
+Overall -> 46.94 % N=637 C=625 S=8 D=4 I=287
+English -> 47.09 % N=635 C=623 S=8 D=4 I=287
+Number -> 0.00 % N=2 C=2 S=0 D=0 I=0
+
+===========================================================================
+===========================================================================
+
+Overall -> 39.17 % N=2086 C=2060 S=18 D=8 I=791
+English -> 39.38 % N=2072 C=2046 S=18 D=8 I=790
+Number -> 0.00 % N=10 C=10 S=0 D=0 I=0
+Other -> 25.00 % N=4 C=4 S=0 D=0 I=1
+
+===========================================================================
+Overall -> 29.62 % N=817 C=692 S=44 D=81 I=117
+English -> 29.28 % N=806 C=685 S=42 D=79 I=115
+Number -> 57.14 % N=7 C=3 S=2 D=2 I=0
+Other -> 50.00 % N=4 C=4 S=0 D=0 I=2
+
+===========================================================================
+Overall -> 20.57 % N=593 C=528 S=28 D=37 I=57
+English -> 20.58 % N=588 C=524 S=28 D=36 I=57
+Other -> 33.33 % N=3 C=2 S=0 D=1 I=0
+Number -> 0.00 % N=2 C=2 S=0 D=0 I=0
+
+===========================================================================
+Overall -> 21.53 % N=613 C=540 S=49 D=24 I=59
+English -> 21.59 % N=602 C=531 S=48 D=23 I=59
+Other -> 20.00 % N=5 C=4 S=0 D=1 I=0
+Number -> 16.67 % N=6 C=5 S=1 D=0 I=0
+
+===========================================================================
+Overall -> 31.03 % N=796 C=685 S=68 D=43 I=136
+English -> 31.19 % N=792 C=681 S=68 D=43 I=136
+Number -> 0.00 % N=3 C=3 S=0 D=0 I=0
+Other -> 0.00 % N=1 C=1 S=0 D=0 I=0
+
+===========================================================================
+Overall -> 21.18 % N=576 C=515 S=49 D=12 I=61
+English -> 21.05 % N=570 C=510 S=48 D=12 I=60
+Number -> 40.00 % N=5 C=4 S=1 D=0 I=1
+Other -> 0.00 % N=1 C=1 S=0 D=0 I=0
+
+===========================================================================
+Overall -> 24.88 % N=422 C=359 S=29 D=34 I=42
+English -> 24.70 % N=417 C=356 S=28 D=33 I=42
+Number -> 66.67 % N=3 C=1 S=1 D=1 I=0
+Other -> 0.00 % N=2 C=2 S=0 D=0 I=0
+
+===========================================================================
+Overall -> 21.23 % N=292 C=265 S=15 D=12 I=35
+English -> 20.34 % N=290 C=264 S=15 D=11 I=33
+Other -> 200.00 % N=1 C=1 S=0 D=0 I=2
+Number -> 100.00 % N=1 C=0 S=0 D=1 I=0
+
+===========================================================================
+Overall -> 34.38 % N=605 C=474 S=49 D=82 I=77
+English -> 34.51 % N=597 C=468 S=48 D=81 I=77
+Other -> 0.00 % N=4 C=4 S=0 D=0 I=0
+Number -> 50.00 % N=4 C=2 S=1 D=1 I=0
+
+===========================================================================
+Overall -> 22.87 % N=411 C=382 S=19 D=10 I=65
+English -> 22.64 % N=402 C=376 S=17 D=9 I=65
+Number -> 33.33 % N=6 C=4 S=1 D=1 I=0
+Other -> 33.33 % N=3 C=2 S=1 D=0 I=0
+
+===========================================================================
+Overall -> 35.43 % N=1064 C=889 S=84 D=91 I=202
+English -> 35.63 % N=1047 C=874 S=83 D=90 I=200
+Number -> 21.43 % N=14 C=12 S=1 D=1 I=1
+Other -> 33.33 % N=3 C=3 S=0 D=0 I=1
+
+===========================================================================
+Overall -> 24.82 % N=830 C=705 S=44 D=81 I=81
+English -> 24.91 % N=823 C=698 S=44 D=81 I=80
+Number -> 33.33 % N=3 C=3 S=0 D=0 I=1
+Other -> 0.00 % N=4 C=4 S=0 D=0 I=0
+
+===========================================================================
+Overall -> 25.08 % N=323 C=287 S=23 D=13 I=45
+English -> 25.39 % N=319 C=283 S=23 D=13 I=45
+Other -> 0.00 % N=2 C=2 S=0 D=0 I=0
+Number -> 0.00 % N=2 C=2 S=0 D=0 I=0
+
+===========================================================================
+===========================================================================
+
+Overall -> 37.84 % N=37 C=35 S=2 D=0 I=12
+English -> 37.84 % N=37 C=35 S=2 D=0 I=12
+
+===========================================================================
+===========================================================================
+
+Overall -> 36.36 % N=22 C=20 S=2 D=0 I=6
+English -> 36.36 % N=22 C=20 S=2 D=0 I=6
+
+===========================================================================
+===========================================================================
+
+Overall -> 30.30 % N=33 C=29 S=1 D=3 I=6
+English -> 30.30 % N=33 C=29 S=1 D=3 I=6
+
+===========================================================================
+Overall -> 37.23 % N=3623 C=3529 S=60 D=34 I=1255
+English -> 37.39 % N=3608 C=3514 S=60 D=34 I=1255
+Number -> 0.00 % N=9 C=9 S=0 D=0 I=0
+Other -> 0.00 % N=6 C=6 S=0 D=0 I=0
+
+===========================================================================
+Overall -> 35.86 % N=1927 C=1873 S=38 D=16 I=637
+English -> 36.08 % N=1915 C=1861 S=38 D=16 I=637
+Other -> 0.00 % N=6 C=6 S=0 D=0 I=0
+Number -> 0.00 % N=6 C=6 S=0 D=0 I=0
+
+===========================================================================
+Overall -> 41.58 % N=1585 C=1463 S=62 D=60 I=537
+English -> 41.78 % N=1575 C=1453 S=62 D=60 I=536
+Number -> 16.67 % N=6 C=6 S=0 D=0 I=1
+Other -> 0.00 % N=4 C=4 S=0 D=0 I=0
+
+===========================================================================
+Overall -> 42.96 % N=540 C=534 S=6 D=0 I=226
+English -> 43.28 % N=536 C=530 S=6 D=0 I=226
+Number -> 0.00 % N=3 C=3 S=0 D=0 I=0
+Other -> 0.00 % N=1 C=1 S=0 D=0 I=0
+
+===========================================================================
+Overall -> 34.99 % N=543 C=480 S=33 D=30 I=127
+English -> 34.83 % N=534 C=474 S=30 D=30 I=126
+Other -> 0.00 % N=4 C=4 S=0 D=0 I=0
+Number -> 80.00 % N=5 C=2 S=3 D=0 I=1
+
+===========================================================================
+
+Overall -> 35.16 % N=256 C=205 S=22 D=29 I=39
+English -> 35.32 % N=252 C=202 S=22 D=28 I=39
+Number -> 25.00 % N=4 C=3 S=0 D=1 I=0
+
+===========================================================================
+
+Overall -> 46.94 % N=637 C=625 S=8 D=4 I=287
+English -> 47.09 % N=635 C=623 S=8 D=4 I=287
+Number -> 0.00 % N=2 C=2 S=0 D=0 I=0
+
+===========================================================================
+Overall -> 39.17 % N=2086 C=2060 S=18 D=8 I=791
+English -> 39.38 % N=2072 C=2046 S=18 D=8 I=790
+Number -> 0.00 % N=10 C=10 S=0 D=0 I=0
+Other -> 25.00 % N=4 C=4 S=0 D=0 I=1
+
+===========================================================================

@@ -1,0 +1,74 @@
+
+utt: vctk_p351_147
+WER: 0.00 % N=5 C=5 S=0 D=0 I=0
+lab: IT WAS A DISCUSSION PAPER 
+rec: IT WAS A DISCUSSION PAPER 
+
+
+utt: vctk_p351_173
+WER: 0.00 % N=7 C=7 S=0 D=0 I=0
+lab: SADLY THEY DO NOT SEEM TO KNOW 
+rec: SADLY THEY DO NOT SEEM TO KNOW 
+
+
+utt: vctk_p351_424
+WER: 0.00 % N=5 C=5 S=0 D=0 I=0
+lab: I KEPT GOING FOR HER 
+rec: I KEPT GOING FOR HER 
+
+
+utt: vctk_p351_092
+WER: 0.00 % N=5 C=5 S=0 D=0 I=0
+lab: 4 HAD BEEN BROUGHT DOWN 
+rec: 4 HAD BEEN BROUGHT DOWN 
+
+
+utt: vctk_p351_147
+WER: 0.00 % N=5 C=5 S=0 D=0 I=0
+lab:  IT WAS A DISCUSSION PAPER 
+rec:  IT WAS A DISCUSSION PAPER 
+
+
+utt: vctk_p351_173
+WER: 0.00 % N=7 C=7 S=0 D=0 I=0
+lab:  SADLY THEY DO NOT SEEM TO KNOW 
+rec:  SADLY THEY DO NOT SEEM TO KNOW 
+
+
+utt: vctk_p351_424
+WER: 0.00 % N=5 C=5 S=0 D=0 I=0
+lab:  I KEPT GOING FOR HER 
+rec:  I KEPT GOING FOR HER 
+
+
+utt: vctk_p351_092
+WER: 0.00 % N=5 C=5 S=0 D=0 I=0
+lab:  4 HAD BEEN BROUGHT DOWN 
+rec:  4 HAD BEEN BROUGHT DOWN 
+
+
+utt: vctk_p351_271
+WER: 0.00 % N=9 C=9 S=0 D=0 I=0
+lab: DO NOT YOU THINK IT WAS A FINE PERFORMANCE 
+rec: DO NOT YOU THINK IT WAS A FINE PERFORMANCE 
+
+
+utt: vctk_p351_101
+WER: 0.00 % N=6 C=6 S=0 D=0 I=0
+lab: IN PART THAT REFLECTED THE TIMES 
+rec: IN PART THAT REFLECTED THE TIMES 
+
+
+utt: vctk_p351_361
+WER: 100.00 % N=5 C=0 S=2 D=3 I=0
+lab: FURTHER DETAILS ARE EXPECTED LATER 
+rec: THANK   YOU                        
+
+===========================================================================
+
+Overall -> 7.81 % N=64 C=59 S=2 D=3 I=0
+English -> 8.06 % N=62 C=57 S=2 D=3 I=0
+Number -> 0.00 % N=2 C=2 S=0 D=0 I=0
+Other -> 0.00 % N=0 C=0 S=0 D=0 I=0
+
+===========================================================================

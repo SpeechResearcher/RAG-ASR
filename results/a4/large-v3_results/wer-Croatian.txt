@@ -1,0 +1,12 @@
+
+utt: voxpopuli_20160526-0900-PLENARY-3-en_20160526-09:38:31_4
+WER: 81.82 % N=22 C=4 S=0 D=18 I=0
+lab: IN THIS SENSE I ALSO BELIEVE THAT NEW MARKETS CAN BE CONCURRED BIG PRODUCTS WITH HIGHER ADDED VALUE THANK YOU VERY MUCH 
+rec:                                                                                                     THANK YOU VERY MUCH 
+
+===========================================================================
+
+Overall -> 81.82 % N=22 C=4 S=0 D=18 I=0
+English -> 81.82 % N=22 C=4 S=0 D=18 I=0
+
+===========================================================================

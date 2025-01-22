@@ -1,0 +1,21 @@
+vctk_p363_111	we are making no comment
+vctk_p363_126	he announced his plans
+vctk_p363_208	that decision is now being appealed
+vctk_p363_145	we could easily have lost that game
+vctk_p363_085	it was that kind of war
+vctk_p363_125	this is not a problem
+vctk_p363_363	it was great fun
+vctk_p363_395	players are fighting to stay in the team
+vctk_p363_292	it was an achievement all right
+vctk_p363_084	they are difficult awards to decide
+vctk_p363_111	we are making no comment
+vctk_p363_126	he announced his plans
+vctk_p363_208	that decision is now being appealed
+vctk_p363_145	we could easily have lost that game
+vctk_p363_085	it was that kind of war
+vctk_p363_125	this is not a problem
+vctk_p363_363	it was great fun
+vctk_p363_420	both were reduced to rubble
+vctk_p363_395	players are fighting to stay in the team
+vctk_p363_292	it was an achievement all right
+vctk_p363_084	they are difficult awards to decide

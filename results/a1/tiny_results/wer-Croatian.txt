@@ -1,0 +1,12 @@
+
+utt: voxpopuli_20160526-0900-PLENARY-3-en_20160526-09:38:31_4
+WER: 9.09 % N=22 C=20 S=2 D=0 I=0
+lab: IN THIS SENSE I ALSO BELIEVE THAT NEW MARKETS CAN BE CONCURRED BIG PRODUCTS WITH HIGHER ADDED VALUE THANK YOU VERY MUCH 
+rec: IN THIS SENSE I ALSO BELIEVE THAT NEW MARKETS CAN BE CONQUERED DID PRODUCTS WITH HIGHER ADDED VALUE THANK YOU VERY MUCH 
+
+===========================================================================
+
+Overall -> 9.09 % N=22 C=20 S=2 D=0 I=0
+English -> 9.09 % N=22 C=20 S=2 D=0 I=0
+
+===========================================================================

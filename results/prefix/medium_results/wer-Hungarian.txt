@@ -1,0 +1,116 @@
+
+utt: voxpopuli_20110309-0900-PLENARY-9-en_20110309-11:34:20_6
+WER: 100.00 % N=11 C=0 S=2 D=9 I=0
+lab: VERY  PLEASE THAT MY PRESIDENT OF REPUBLIC WILL BE CONSUMED GLAD 
+rec: THANK YOU                                                        
+
+
+utt: voxpopuli_20131023-0900-PLENARY-11-en_20131023-15:33:56_0
+WER: 8.33 % N=12 C=11 S=1 D=0 I=0
+lab: THANK YOU VERY MUCH THERE ARE SOME PRIVILEGES OF THE HIGH REPRESENT      
+rec: THANK YOU VERY MUCH THERE ARE SOME PRIVILEGES OF THE HIGH REPRESENTATIVE 
+
+
+utt: voxpopuli_20180702-0900-PLENARY-14-en_20180702-19:23:37_4
+WER: 89.47 % N=19 C=2 S=0 D=17 I=0
+lab: THAT HAVE BEEN RESTITUTE ARE AGAIN BEING RE REALLY NATIONALIZED BY THE STATE THANK YOU THANK THANK YOU COLLEAGUE 
+rec:                                                                              THANK YOU                           
+
+
+utt: voxpopuli_20170704-0900-PLENARY-15-en_20170704-17:12:49_6
+WER: 86.67 % N=15 C=2 S=0 D=13 I=0
+lab: DRIVEN BY THE BY THE STRATEGIC NEEDS OF THE EUROPEAN UNION THANK YOU VERY MUCH 
+rec:                                                            THANK YOU           
+
+
+utt: voxpopuli_20170315-0900-PLENARY-16-en_20170315-22:52:19_0
+WER: 85.71 % N=14 C=2 S=0 D=12 I=0
+lab: THANK YOU VERY PRESIDENT MY CONGRATULATIONS TO MISTER HOWARD I GAVE AN EXCELLENT REPORT 
+rec: THANK YOU                                                                               
+
+
+utt: voxpopuli_20110214-0900-PLENARY-9-en_20110214-18:38:20_0
+WER: 8.70 % N=23 C=21 S=0 D=2 I=0
+lab: THANK YOU CHAIRMAN THE HUNGARIAN COMPUTER GUY CAN LEGALLY GO TO CZECH REPUBLIC AND MAKE HIS WORK AND IT IS GREAT OF COURSE 
+rec: THANK YOU CHAIRMAN THE HUNGARIAN COMPUTER GUY CAN LEGALLY GO TO CZECH REPUBLIC AND MAKE HIS WORK AND IT IS GREAT           
+
+
+utt: voxpopuli_20130206-0900-PLENARY-12-en_20130206-19:25:58_6
+WER: 86.67 % N=15 C=2 S=0 D=13 I=0
+lab: ABILITY OF THE EUROPEAN UNION AND THE BULGARIA IS AT STAKE THANK YOU VERY MUCH 
+rec:                                                            THANK YOU           
+
+
+utt: voxpopuli_20091022-0900-PLENARY-8-en_20091022-11:32:33_5
+WER: 95.24 % N=42 C=2 S=3 D=37 I=0
+lab: AT         THE ONE    WE ARE INCREASING AND ANOTHER ONE WE ARE DECREASING SO I THINK WE SHOULD BE STRICT TO OUR  DECISION FOR IT IS WRITTEN CLEARLY IN THE AMENDMENT NUMBER 4 64 THAT THE INCREASE THE AMENDMENT IS NOT INCREASING THE 
+rec: TRANSCRIBE THE SPEECH                                                                                    TO TEXT                                                                                                                       
+
+
+utt: voxpopuli_20160427-0900-PLENARY-13-en_20160427-18:57:22_1
+WER: 23.33 % N=30 C=25 S=2 D=3 I=2
+lab: I         THAT ISSUE        STAND FIRM AND SHOULD NOT GRANT DISCHARGE TO THE EUROPEAN FOOD SAFETY AGENCY UNTIL THE CONFLICT OF INTEREST OF EXPERTS IS NOT RESOURCED PROPERLY 2ND ABOUT THE 
+rec: I BELIEVE THAT WE    SHOULD STAND FIRM AND SHOULD NOT GRANT DISCHARGE TO THE EUROPEAN FOOD SAFETY AGENCY UNTIL THE CONFLICT OF INTEREST OF EXPERTS IS NOT RESOLVED  PROPERLY               
+
+
+utt: voxpopuli_20140716-0900-PLENARY-4-en_20140716-09:13:16_2
+WER: 94.74 % N=19 C=1 S=1 D=17 I=0
+lab: THE   COMMITTEES HOWEVER THERE HAS BEEN AN OPPORTUNITY AND YOU USE THIS OPPORTUNITY IN THE ECON COMMITTEE TO VOTE 
+rec: THANK                                                      YOU                                                    
+
+
+utt: voxpopuli_20191023-0900-PLENARY-en_20191023-19:23:53_6
+WER: 89.47 % N=19 C=2 S=0 D=17 I=0
+lab: THAT IS THE LOCAL INTEREST AND THAT IS CHRISTIAN RESPONSIBILITY I THINK CHRISTIAN RESPONSIBILITY I THINK THANK YOU JIM 
+rec:                                                                                                          THANK YOU     
+
+
+utt: voxpopuli_20181023-0900-PLENARY-en_20181023-15:08:31_11
+WER: 100.00 % N=32 C=0 S=2 D=30 I=0
+lab: CAN   RIGHTLY IT IS SHOULD BE LEFT TO THE MEMBER STATE AND WE SHOULD FIND OUR OWN WAY TO FIND A EUROPEAN THAT OUR OWN POSSIBILITIES ALL THESE EXPECT ARE VERY IMPORTANT 
+rec: THANK YOU                                                                                                                                                               
+
+
+utt: voxpopuli_20180418-0900-PLENARY-7-en_20180418-11:14:39_3
+WER: 100.00 % N=41 C=0 S=2 D=39 I=0
+lab: I     LEAD BY EXAMPLE AND WHAT WE ARE ASKED HERE IN THE EUROPEAN PARLIAMENT IT IS NOT EXACTLY I DO NOT WANT TO SEE YOUR INDIVIDUAL INVOICES I THINK IT IS IT IS A VOLUNTARY EXERCISE BUT WHAT WHAT IS PROPOSED 
+rec: THANK YOU                                                                                                                                                                                                      
+
+
+utt: voxpopuli_20091022-0900-PLENARY-8-en_20091022-11:14:18_16
+WER: 100.00 % N=20 C=0 S=2 D=18 I=0
+lab: THIS  ADJUSTMENT LIST IS USUALLY IN EACH YEAR AND REPRESENTS A GOOD WORK FROM THE SARIA ALSO I MUST EXPRESS 
+rec: THANK YOU                                                                                                   
+
+
+utt: voxpopuli_20120329-0900-PLENARY-5-en_20120329-10:37:14_5
+WER: 100.00 % N=27 C=0 S=2 D=25 I=0
+lab: THIS  MATTER IS PRESENTLY BEING DISCUSSED IN THE COMPETENT COMMITTEE AND WILL BE SUBMITTED FOR DISCUSSION THE PARLIAMENT IN NEW COURSE THIS IS NOT ONLY DISREGARDING THE 
+rec: THANK YOU                                                                                                                                                                
+
+
+utt: voxpopuli_20200115-0900-PLENARY-en_20200115-22:06:44_0
+WER: 100.00 % N=19 C=0 S=2 D=17 I=0
+lab: COLLEAGUE STYLE YES WELL I AM NOT AGAINST THAT SOLUTION I COULD BE A COULD BE A BACKING THAT 
+rec: THANK     YOU                                                                                
+
+
+utt: voxpopuli_20120913-0900-PLENARY-16-en_20120913-16:15:00_11
+WER: 95.83 % N=24 C=1 S=1 D=22 I=0
+lab: IF    NOT THAT IS REALLY SAID YOU SHOULD NOT BE YOU SHOULD HAVE BEEN HEARD ABOUT THAT THERE WAS AN IRISH BANKER IN HUNGARY 
+rec: THANK                         YOU                                                                                          
+
+
+utt: voxpopuli_20160427-0900-PLENARY-13-en_20160427-18:57:22_0
+WER: 100.00 % N=40 C=0 S=2 D=38 I=0
+lab: MADAM I   WOULD LIKE TO TALK ABOUT 2 DISCHARGES AS SHADOW REPORT 1ST ABOUT THE SA THE GLYPHOSATE SCANDAL RAISES MANY PROCEDURAL ANIMALS IN THE FIELD OF TRANSPARENCY AND CONFLICT OF INTEREST OF THE SA I BELIEVE THAT ISSUES STAND 
+rec: THANK YOU                                                                                                                                                                                                                           
+
+===========================================================================
+
+Overall -> 83.65 % N=422 C=71 S=22 D=329 I=2
+English -> 83.45 % N=417 C=71 S=22 D=324 I=2
+Number -> 100.00 % N=3 C=0 S=0 D=3 I=0
+Other -> 100.00 % N=2 C=0 S=0 D=2 I=0
+
+===========================================================================

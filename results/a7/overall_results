@@ -1,0 +1,276 @@
+Processing Dutch for model tiny
+WER for Dutch: ===========================================================================
+18.26
+Processing German for model tiny
+WER for German: ===========================================================================
+24.65
+Processing Czech for model tiny
+WER for Czech: ===========================================================================
+23.19
+Processing Polish for model tiny
+WER for Polish: ===========================================================================
+24.18
+Processing French for model tiny
+WER for French: ===========================================================================
+17.13
+Processing Hungarian for model tiny
+WER for Hungarian: ===========================================================================
+22.41
+Processing Finnish for model tiny
+WER for Finnish: ===========================================================================
+13.21
+Processing Romanian for model tiny
+WER for Romanian: ===========================================================================
+24.85
+Processing Slovak for model tiny
+WER for Slovak: ===========================================================================
+26.90
+Processing Spanish for model tiny
+WER for Spanish: ===========================================================================
+25.78
+Processing Italian for model tiny
+WER for Italian: ===========================================================================
+16.67
+Processing Estonian for model tiny
+WER for Estonian: ===========================================================================
+35.86
+Processing Lithuanian for model tiny
+WER for Lithuanian: ===========================================================================
+16.22
+Processing Croatian for model tiny
+WER for Croatian: ===========================================================================
+13.64
+Processing Slovene for model tiny
+WER for Slovene: ===========================================================================
+0.00
+Processing English for model tiny
+WER for English: ===========================================================================
+18.66
+Processing Scottish for model tiny
+WER for Scottish: ===========================================================================
+21.11
+Processing Irish for model tiny
+WER for Irish: ===========================================================================
+24.40
+Processing NorthernIrish for model tiny
+WER for NorthernIrish: ===========================================================================
+10.03
+Processing Indian for model tiny
+WER for Indian: ===========================================================================
+31.50
+Processing Vietnamese for model tiny
+WER for Vietnamese: ===========================================================================
+28.33
+Processing Canadian for model tiny
+WER for Canadian: ===========================================================================
+10.42
+Processing American for model tiny
+WER for American: ===========================================================================
+13.34
+Processing Dutch for model small
+WER for Dutch: ===========================================================================
+22.43
+Processing German for model small
+WER for German: ===========================================================================
+13.76
+Processing Czech for model small
+WER for Czech: ===========================================================================
+20.00
+Processing Polish for model small
+WER for Polish: ===========================================================================
+20.48
+Processing French for model small
+WER for French: ===========================================================================
+21.39
+Processing Hungarian for model small
+WER for Hungarian: ===========================================================================
+26.28
+Processing Finnish for model small
+WER for Finnish: ===========================================================================
+16.28
+Processing Romanian for model small
+WER for Romanian: ===========================================================================
+29.43
+Processing Slovak for model small
+WER for Slovak: ===========================================================================
+13.09
+Processing Spanish for model small
+WER for Spanish: ===========================================================================
+23.25
+Processing Italian for model small
+WER for Italian: ===========================================================================
+19.95
+Processing Estonian for model small
+WER for Estonian: ===========================================================================
+33.33
+Processing Lithuanian for model small
+WER for Lithuanian: ===========================================================================
+30.77
+Processing Croatian for model small
+WER for Croatian: ===========================================================================
+9.09
+Processing Slovene for model small
+WER for Slovene: ===========================================================================
+24.24
+Processing English for model small
+WER for English: ===========================================================================
+29.89
+Processing Scottish for model small
+WER for Scottish: ===========================================================================
+34.16
+Processing Irish for model small
+WER for Irish: ===========================================================================
+33.88
+Processing NorthernIrish for model small
+WER for NorthernIrish: ===========================================================================
+29.91
+Processing Indian for model small
+WER for Indian: ===========================================================================
+33.87
+Processing Vietnamese for model small
+WER for Vietnamese: ===========================================================================
+30.95
+Processing Canadian for model small
+WER for Canadian: ===========================================================================
+38.68
+Processing American for model small
+WER for American: ===========================================================================
+33.35
+Processing Dutch for model medium
+WER for Dutch: ===========================================================================
+26.19
+Processing German for model medium
+WER for German: ===========================================================================
+13.67
+Processing Czech for model medium
+WER for Czech: ===========================================================================
+29.06
+Processing Polish for model medium
+WER for Polish: ===========================================================================
+29.88
+Processing French for model medium
+WER for French: ===========================================================================
+32.56
+Processing Hungarian for model medium
+WER for Hungarian: ===========================================================================
+34.68
+Processing Finnish for model medium
+WER for Finnish: ===========================================================================
+20.59
+Processing Romanian for model medium
+WER for Romanian: ===========================================================================
+50.57
+Processing Slovak for model medium
+WER for Slovak: ===========================================================================
+24.81
+Processing Spanish for model medium
+WER for Spanish: ===========================================================================
+44.55
+Processing Italian for model medium
+WER for Italian: ===========================================================================
+33.11
+Processing Estonian for model medium
+WER for Estonian: ===========================================================================
+56.30
+Processing Lithuanian for model medium
+WER for Lithuanian: ===========================================================================
+76.92
+Processing Croatian for model medium
+WER for Croatian: ===========================================================================
+0.00
+Processing Slovene for model medium
+WER for Slovene: ===========================================================================
+0.00
+Processing English for model medium
+WER for English: ===========================================================================
+21.00
+Processing Scottish for model medium
+WER for Scottish: ===========================================================================
+25.24
+Processing Irish for model medium
+WER for Irish: ===========================================================================
+40.34
+Processing NorthernIrish for model medium
+WER for NorthernIrish: ===========================================================================
+11.60
+Processing Indian for model medium
+WER for Indian: ===========================================================================
+29.93
+Processing Vietnamese for model medium
+WER for Vietnamese: ===========================================================================
+40.54
+Processing Canadian for model medium
+WER for Canadian: ===========================================================================
+45.13
+Processing American for model medium
+WER for American: ===========================================================================
+22.40
+Processing Dutch for model large-v3
+WER for Dutch: ===========================================================================
+27.02
+Processing German for model large-v3
+WER for German: ===========================================================================
+18.56
+Processing Czech for model large-v3
+WER for Czech: ===========================================================================
+22.56
+Processing Polish for model large-v3
+WER for Polish: ===========================================================================
+31.52
+Processing French for model large-v3
+WER for French: ===========================================================================
+23.32
+Processing Hungarian for model large-v3
+WER for Hungarian: ===========================================================================
+25.00
+Processing Finnish for model large-v3
+WER for Finnish: ===========================================================================
+28.89
+Processing Romanian for model large-v3
+WER for Romanian: ===========================================================================
+28.67
+Processing Slovak for model large-v3
+WER for Slovak: ===========================================================================
+18.15
+Processing Spanish for model large-v3
+WER for Spanish: ===========================================================================
+31.56
+Processing Italian for model large-v3
+WER for Italian: ===========================================================================
+23.23
+Processing Estonian for model large-v3
+WER for Estonian: ===========================================================================
+31.41
+Processing Lithuanian for model large-v3
+WER for Lithuanian: ===========================================================================
+46.15
+Processing Croatian for model large-v3
+WER for Croatian: ===========================================================================
+36.36
+Processing Slovene for model large-v3
+WER for Slovene: ===========================================================================
+30.30
+Processing English for model large-v3
+WER for English: ===========================================================================
+37.75
+Processing Scottish for model large-v3
+WER for Scottish: ===========================================================================
+38.72
+Processing Irish for model large-v3
+WER for Irish: ===========================================================================
+42.18
+Processing NorthernIrish for model large-v3
+WER for NorthernIrish: ===========================================================================
+42.73
+Processing Indian for model large-v3
+WER for Indian: ===========================================================================
+36.83
+Processing Vietnamese for model large-v3
+WER for Vietnamese: ===========================================================================
+30.77
+Processing Canadian for model large-v3
+WER for Canadian: ===========================================================================
+51.68
+Processing American for model large-v3
+WER for American: ===========================================================================
+40.23

@@ -1,0 +1,127 @@
+
+utt: vctk_p364_289
+WER: 0.00 % N=5 C=5 S=0 D=0 I=0
+lab: WE SUSPECT HE WAS PLEASED 
+rec: WE SUSPECT HE WAS PLEASED 
+
+
+utt: vctk_p364_144
+WER: 0.00 % N=6 C=6 S=0 D=0 I=0
+lab: I DO NOT ENTIRELY BUY THAT 
+rec: I DO NOT ENTIRELY BUY THAT 
+
+
+utt: vctk_p364_167
+WER: 0.00 % N=5 C=5 S=0 D=0 I=0
+lab: THE POST WILL BE UNPAID 
+rec: THE POST WILL BE UNPAID 
+
+
+utt: vctk_p364_151
+WER: 0.00 % N=4 C=4 S=0 D=0 I=0
+lab: IT WAS TOO SOON 
+rec: IT WAS TOO SOON 
+
+
+utt: vctk_p364_081
+WER: 0.00 % N=6 C=6 S=0 D=0 I=0
+lab: THAT WOULD BE A BIG MISTAKE 
+rec: THAT WOULD BE A BIG MISTAKE 
+
+
+utt: vctk_p364_181
+WER: 0.00 % N=6 C=6 S=0 D=0 I=0
+lab: IT IS PART OF YOUR LIFE 
+rec: IT IS PART OF YOUR LIFE 
+
+
+utt: vctk_p364_138
+WER: 0.00 % N=5 C=5 S=0 D=0 I=0
+lab: IT IS NOT THEIR FAULT 
+rec: IT IS NOT THEIR FAULT 
+
+
+utt: vctk_p364_039
+WER: 0.00 % N=8 C=8 S=0 D=0 I=0
+lab: I WAS NOT FIT ENOUGH AND IT SHOWED 
+rec: I WAS NOT FIT ENOUGH AND IT SHOWED 
+
+
+utt: vctk_p364_121
+WER: 0.00 % N=6 C=6 S=0 D=0 I=0
+lab: IT IS PART OF THEIR JOB 
+rec: IT IS PART OF THEIR JOB 
+
+
+utt: vctk_p364_157
+WER: 0.00 % N=4 C=4 S=0 D=0 I=0
+lab: HE DESERVED THAT MUCH 
+rec: HE DESERVED THAT MUCH 
+
+
+utt: vctk_p364_289
+WER: 0.00 % N=5 C=5 S=0 D=0 I=0
+lab:  WE SUSPECT HE WAS PLEASED 
+rec:  WE SUSPECT HE WAS PLEASED 
+
+
+utt: vctk_p364_144
+WER: 0.00 % N=6 C=6 S=0 D=0 I=0
+lab:  I DO NOT ENTIRELY BUY THAT 
+rec:  I DO NOT ENTIRELY BUY THAT 
+
+
+utt: vctk_p364_167
+WER: 0.00 % N=5 C=5 S=0 D=0 I=0
+lab:  THE POST WILL BE UNPAID 
+rec:  THE POST WILL BE UNPAID 
+
+
+utt: vctk_p364_151
+WER: 0.00 % N=4 C=4 S=0 D=0 I=0
+lab:  IT WAS TOO SOON 
+rec:  IT WAS TOO SOON 
+
+
+utt: vctk_p364_081
+WER: 0.00 % N=6 C=6 S=0 D=0 I=0
+lab:  THAT WOULD BE A BIG MISTAKE 
+rec:  THAT WOULD BE A BIG MISTAKE 
+
+
+utt: vctk_p364_181
+WER: 0.00 % N=6 C=6 S=0 D=0 I=0
+lab:  IT IS PART OF YOUR LIFE 
+rec:  IT IS PART OF YOUR LIFE 
+
+
+utt: vctk_p364_138
+WER: 0.00 % N=5 C=5 S=0 D=0 I=0
+lab:  IT IS NOT THEIR FAULT 
+rec:  IT IS NOT THEIR FAULT 
+
+
+utt: vctk_p364_039
+WER: 0.00 % N=8 C=8 S=0 D=0 I=0
+lab:  I WAS NOT FIT ENOUGH AND IT SHOWED 
+rec:  I WAS NOT FIT ENOUGH AND IT SHOWED 
+
+
+utt: vctk_p364_121
+WER: 0.00 % N=6 C=6 S=0 D=0 I=0
+lab:  IT IS PART OF THEIR JOB 
+rec:  IT IS PART OF THEIR JOB 
+
+
+utt: vctk_p364_157
+WER: 0.00 % N=4 C=4 S=0 D=0 I=0
+lab:  HE DESERVED THAT MUCH 
+rec:  HE DESERVED THAT MUCH 
+
+===========================================================================
+
+Overall -> 0.00 % N=110 C=110 S=0 D=0 I=0
+English -> 0.00 % N=110 C=110 S=0 D=0 I=0
+Other -> 0.00 % N=0 C=0 S=0 D=0 I=0
+
+===========================================================================

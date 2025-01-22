@@ -1,0 +1,43 @@
+
+utt: edacc_EDACC-C62_2306
+WER: 18.18 % N=11 C=9 S=0 D=2 I=0
+lab: OKAY SO WHAT DO YOU LIKE DOING IN YOUR FREE TIME 
+rec:         WHAT DO YOU LIKE DOING IN YOUR FREE TIME 
+
+
+utt: edacc_EDACC-C59_4073
+WER: 30.61 % N=49 C=34 S=6 D=9 I=0
+lab: 0 BUT YOU KNOW I COME TO HA LONG WITH MY FRIENDS AND MY FAMILY YEAH  WITH MANY PEOPLE SO I THINK I     GO TO THE RESTAURANT IS SUITABLE FOR ME SO CAN YOU RECOMMEND TO ME S THE NAME OF THE RESTAURANT THAT I I      I  JUST GO 
+rec:                I COME TO HA LONG WITH MY FRIENDS AND MY FAMILY THERE ARE  MANY PEOPLE    I THINK GOING    TO THE RESTAURANT IS SUITABLE FOR ME    CAN YOU RECOMMEND TO ME   THE NAME OF THE RESTAURANT THAT I SHOULD GO TO      
+
+
+utt: edacc_EDACC-C59_4092
+WER: 13.33 % N=15 C=13 S=0 D=2 I=0
+lab: OKAY SO IF YOU HAVE ANY PROBLEM JUST PLEASE TELL ME I WILL HELP YOU 
+rec:         IF YOU HAVE ANY PROBLEM JUST PLEASE TELL ME I WILL HELP YOU 
+
+
+utt: edacc_EDACC-C59_4114
+WER: 75.00 % N=44 C=11 S=0 D=33 I=0
+lab: OKAY I WILL BOOK A GRAB CAR BECAUSE IF WE ARE DRUNK WE HAVE TO WE WE CANNOT YOU KNOW DRIVE OURSELVES TO HOME SO OKAY SO I WILL BOOK A CAR AND DO YOU WANT TO TAKE A SHOWER BEFORE WE GO OUT 
+rec:                                                                                                                                               DO YOU WANT TO TAKE A SHOWER BEFORE WE GO OUT 
+
+
+utt: edacc_EDACC-C60_4283
+WER: 94.12 % N=17 C=1 S=1 D=15 I=0
+lab: AND   YOU KNOW WHAT YOU KNOW WHAT THE PANDEMIC TIMES IS THE TOUGH TIME TO ME ALSO 
+rec: THANK YOU                                                                         
+
+
+utt: edacc_EDACC-C67_4358
+WER: 65.00 % N=20 C=7 S=1 D=12 I=0
+lab: WELL NOT NOT NO ALL ALL ALL OF US BUT I THINK THAT THERE MA  NOW MORE AND MORE PEOPLE 
+rec:                                       I THINK      THERE ARE     MORE AND MORE PEOPLE 
+
+===========================================================================
+
+Overall -> 51.92 % N=156 C=75 S=8 D=73 I=0
+English -> 51.61 % N=155 C=75 S=8 D=72 I=0
+Number -> 100.00 % N=1 C=0 S=0 D=1 I=0
+
+===========================================================================

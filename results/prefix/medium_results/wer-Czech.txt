@@ -1,0 +1,122 @@
+
+utt: voxpopuli_20180116-0900-PLENARY-15-en_20180116-17:57:51_6
+WER: 100.00 % N=41 C=0 S=2 D=39 I=0
+lab: WE    SHOULD EXPECT MISSUS MO TO TELL THE I AND THAT WE CANNOT TOLERATE ANY EXECUTION OF THE DEMONSTRATOR MADAM HIRE REPRESENTATIVE MISTER COMMISSIONER IRAN HAS A WELL ORGANIZED AND LONG ESTABLISHED DEMOCRATIC OPPOSITION COALITION THE NATIONAL COUNCIL OF RE RESIST 
+rec: THANK YOU                                                                                                                                                                                                                                                                
+
+
+utt: voxpopuli_20171003-0900-PLENARY-11-en_20171003-17:09:25_0
+WER: 95.74 % N=47 C=2 S=0 D=45 I=0
+lab: THANK YOU COLLEAGUES WE NOW APPROACH THE PHASE OF KTI EVEN IF I AM VERY GENEROUS I I WILL NOT BE ABLE TO PROVIDE SPEAKING TIME TO MORE THAN HALF OF COLLEAGUES THAT HAVE APPLIED FOR THE SPEAKING TIME BECAUSE THE LIST IS REALLY LONG WE WILL 
+rec: THANK YOU                                                                                                                                                                                                                                      
+
+
+utt: voxpopuli_20090325-0900-PLENARY-8-en_20090325-16:46:50_7
+WER: 97.92 % N=48 C=1 S=4 D=43 I=0
+lab: YOU        KNOW THOSE OF YOU WHO RAISED THE OTHER  ISSUES LIKE THE VISA WAIVER BECAUSE NOT ALL THE EU COUNTRIES ARE TAKING PART OF THAT I THINK YOU CAN REMEMBER HOW MY COUNTRY HAS WAS LEADING SOME AFFORD IN THAT A YEAR AGO IT WAS ALSO THE SUB 
+rec: TRANSCRIBE                              THE SPEECH TO     TEXT                                                                                                                                                                                     
+
+
+utt: voxpopuli_20100923-0900-PLENARY-3-en_20100923-10:07:16_8
+WER: 100.00 % N=7 C=0 S=2 D=5 I=0
+lab: BORDERS ARE BASIC ELEMENTS OF CIVIL ENTITY 
+rec: THANK   YOU                                
+
+
+utt: voxpopuli_20171025-0900-PLENARY-22-en_20171025-19:59:56_2
+WER: 100.00 % N=29 C=0 S=2 D=27 I=0
+lab: BUT   AT  THE SAME TIME WE HAVE ONE CARRIER THAT WILL INTRODUCE 16% €16 SURCHARGE WHICH IN REALITY MEANS 32 AND I WONDER WHY EXTRA COST THAT IT GOES 
+rec: THANK YOU                                                                                                                                             
+
+
+utt: voxpopuli_20181212-0900-PLENARY-en_20181212-16:35:22_1
+WER: 100.00 % N=24 C=0 S=2 D=22 I=0
+lab: PROOF THAT THE IMPROVED ADMINISTRATIVE CORPORATION REVIEW THE ANTI MAN LAUNDERING AND SO ON BUT AT THE SAME TIME AS COMMISSIONER HAS MENTIONED WE 
+rec: THANK YOU                                                                                                                                         
+
+
+utt: voxpopuli_20171003-0900-PLENARY-15-en_20171003-19:46:47_2
+WER: 100.00 % N=16 C=0 S=2 D=14 I=0
+lab: TO    PUT IT BLUNTLY HAS MESSED UP SOMETHING I MEAN IF I WERE THE SEE 0 
+rec: THANK YOU                                                               
+
+
+utt: voxpopuli_20170119-0900-PLENARY-6-en_20170119-11:44:34_3
+WER: 100.00 % N=22 C=0 S=2 D=20 I=0
+lab: LOOK  INTO THE SITUATION I MEAN THERE IS HARDLY A WORST CASE AND I AM GLAD THAT THIS TIME WE MANAGED TO 
+rec: THANK YOU                                                                                               
+
+
+utt: voxpopuli_20170612-0900-PLENARY-18-en_20170612-22:10:22_0
+WER: 287.04 % N=54 C=5 S=49 D=0 I=106
+lab: MS         GA  AM     I  RIGHT                       TO ASSUME THAT       YOU ARE    SPEAKING NOW  IN         CATALUNIAN I      AM SPEAKING IN         CATALAN THEN   I  AM   AFRAID     I   HAVE   TO REPLY WHAT       I   HAVE   SAID AT              THE VERY   BEGINNING IT   HAS        BEEN PROPOSED TODAY                            TO PRESENT TIANA      WHETHER IT     WOULD BE   POSSIBLE              TO SPEAK IN         SOME OTHER  LANGUAGES                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+rec: TRANSCRIBE THE SPEECH TO TEXT  TRANSCRIBE THE SPEECH TO TEXT   TRANSCRIBE THE SPEECH TO       TEXT TRANSCRIBE THE        SPEECH TO TEXT     TRANSCRIBE THE     SPEECH TO TEXT TRANSCRIBE THE SPEECH TO TEXT  TRANSCRIBE THE SPEECH TO   TEXT TRANSCRIBE THE SPEECH TO        TEXT TRANSCRIBE THE  SPEECH   TO    TEXT TRANSCRIBE THE SPEECH TO TEXT    TRANSCRIBE THE     SPEECH TO    TEXT TRANSCRIBE THE SPEECH TO TEXT  TRANSCRIBE THE  SPEECH TO        TEXT TRANSCRIBE THE SPEECH TO TEXT TRANSCRIBE THE SPEECH TO TEXT TRANSCRIBE THE SPEECH TO TEXT TRANSCRIBE THE SPEECH TO TEXT TRANSCRIBE THE SPEECH TO TEXT TRANSCRIBE THE SPEECH TO TEXT TRANSCRIBE THE SPEECH TO TEXT TRANSCRIBE THE SPEECH TO TEXT TRANSCRIBE THE SPEECH TO TEXT TRANSCRIBE THE SPEECH TO TEXT TRANSCRIBE THE SPEECH TO TEXT TRANSCRIBE THE SPEECH TO TEXT TRANSCRIBE THE SPEECH TO TEXT TRANSCRIBE THE SPEECH TO TEXT TRANSCRIBE THE SPEECH TO TEXT TRANSCRIBE THE SPEECH TO TEXT TRANSCRIBE THE SPEECH TO TEXT TRANSCRIBE THE SPEECH TO TEXT TRANSCRIBE THE SPEECH TO TEXT 
+
+
+utt: voxpopuli_20181211-0900-PLENARY-en_20181211-17:01:42_3
+WER: 42.86 % N=21 C=12 S=4 D=5 I=0
+lab: THE SPA WILL SEE THE EU IN  JAPAN STEPPING UP OUR CORPORATION IN AROUND CERTAIN AREAS THE EPA IS CERTAINLY THE 
+rec: THE SBA WILL SEE THE EU AND JAPAN STEPPING UP OUR COOPERATION IN AROUND 30      AREAS                          
+
+
+utt: voxpopuli_20150128-0900-PLENARY-8-en_20150128-17:29:55_24
+WER: 100.00 % N=9 C=0 S=2 D=7 I=0
+lab: 2     REMARKS ONE TO TO FINISH WITH ONE IS 
+rec: THANK YOU                                  
+
+
+utt: voxpopuli_20110119-0900-PLENARY-12-en_20110119-19:01:21_10
+WER: 100.00 % N=21 C=0 S=2 D=19 I=0
+lab: LI    HAS SHOWN ITS STRONG WELL TO DEEPEN THE RELATIONS WITH EUROPEAN UNION WE COME TO DO THAT THIS IS POSITIVE 
+rec: THANK YOU                                                                                                       
+
+
+utt: voxpopuli_20111027-0900-PLENARY-4-en_20111027-11:34:56_16
+WER: 100.00 % N=57 C=0 S=2 D=55 I=0
+lab: THAT  I   REPRESENT A GROUP WITH MOST NON EUROS ON MEMBERS AND AS A EURO ZONE OUTSIDER OR HOW WE CAN CALL THAT AS AN OBSERVER I HAVE TO SAY THAT MY FEELING IS THAT EURO ZONE AT THE MOMENT DOES NOT SERVE TO ALL ITS 17 MEMBERS BUT JUST A FEW AND I HAVE THE FEELING 
+rec: THANK YOU                                                                                                                                                                                                                                                              
+
+
+utt: voxpopuli_20170913-0900-PLENARY-3-en_20170913-11:09:09_1
+WER: 100.00 % N=18 C=0 S=2 D=16 I=0
+lab: POLITICIANS THAT HAVE USED OF THE 1ST HALF 20TH CENTURY SO THANKS FOR THAT EVEN THOUGH OF COURSE 
+rec: THANK       YOU                                                                                  
+
+
+utt: voxpopuli_20191009-0900-PLENARY-en_20191009-18:19:04_3
+WER: 100.00 % N=54 C=0 S=2 D=52 I=0
+lab: TRACK AND THE LOWERS SO THEY DO NOT HAVE COMPLETED YET THE HIGHWAY RINGS NEITHER THE THE EXTERNAL AND JUST YESTERDAY THE CITY OF PR COUNCIL LET NOR MY MY BY PARTY BUT BY THE PARENTS WHO ARE THE PART OF THE GREEN COALITION HERE PROMISED TO THE CHECK CITIZENS TO GET THE I 
+rec: THANK YOU                                                                                                                                                                                                                                                                      
+
+
+utt: voxpopuli_20160412-0900-PLENARY-12-en_20160412-18:22:20_4
+WER: 100.00 % N=23 C=0 S=2 D=21 I=0
+lab: ALSO  IT  SHOULD BE NOTED THAT THE MANY CASES IN PANAMA PAPERS ARE ARE A LITTLE BIT OLDER I AM SAYING THAT BECAUSE 
+rec: THANK YOU                                                                                                          
+
+
+utt: voxpopuli_20110119-0900-PLENARY-12-en_20110119-19:01:21_1
+WER: 96.30 % N=27 C=1 S=4 D=22 I=0
+lab: ME         SO  SAY    TO ROBERT PORTER MME GOMEZ THAT I WILL SEND HER MORE DETAILS ABOUT NATIONAL INDICATIVE PLANS FOR THE YEARS 2011 2013 FOR SEEING €60000000 
+rec: TRANSCRIBE THE SPEECH TO TEXT                                                                                                                                    
+
+
+utt: voxpopuli_20190325-0900-PLENARY-en_20190325-17:43:12_24
+WER: 10.94 % N=64 C=58 S=4 D=2 I=1
+lab: AND THAT IS WHY WE CALL IN OUR REPORT TO BAN OF GORDON VISA OR SIMILAR SIMILAR INSTRUMENTS AND INCREASE THE TRANSPARENCY DUE DILIGENCE REQUIREMENTS IN THE MEANTIME BEFORE THIS WELL FULFILL LET ME NOW FINISH HERE BY THANKING ALL MY COLLEAGUES IN WORKING ON THIS REPORT ESPECIALLY MISTER KO    OUR    REPORTER AND ALSO OTHER REPORTER  SHADOW REPORTERS AND ESPECIALLY APPRECIATE THE WORK OF 
+rec:     THAT IS WHY WE CALL IN OUR REPORT TO BAN OF GOLDEN VISA OR SIMILAR         INSTRUMENTS AND INCREASE THE TRANSPARENCY DUE DILIGENCE REQUIREMENTS IN THE MEANTIME BEFORE THIS WILL FULFILL LET ME NOW FINISH HERE BY THANKING ALL MY COLLEAGUES IN WORKING ON THIS REPORT ESPECIALLY MISTER KOFOT OUR CO REPORTER AND ALSO OTHER REPORTERS SHADOW REPORTERS AND ESPECIALLY APPRECIATE THE WORK OF 
+
+
+utt: voxpopuli_20151124-0900-PLENARY-11-en_20151124-16:09:42_9
+WER: 93.55 % N=31 C=2 S=0 D=29 I=0
+lab: WE WILL BE FACING A LOT OF OBSTACLES BUT I I HOPE THAT EUROPEAN PARLIAMENT WILL PLAY IMPORTANT DECISIVE ROLE IN PROMOTING PROGRESS IN THIS IMPORTANT AREA THANK YOU VERY MUCH 
+rec:                                                                                                                                                           THANK YOU           
+
+===========================================================================
+
+Overall -> 104.24 % N=613 C=81 S=89 D=443 I=107
+English -> 104.32 % N=602 C=81 S=88 D=433 I=107
+Other -> 100.00 % N=5 C=0 S=0 D=5 I=0
+Number -> 100.00 % N=6 C=0 S=1 D=5 I=0
+
+===========================================================================

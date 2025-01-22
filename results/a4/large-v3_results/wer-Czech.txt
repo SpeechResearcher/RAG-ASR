@@ -1,0 +1,49 @@
+
+utt: voxpopuli_20090325-0900-PLENARY-8-en_20090325-16:46:50_7
+WER: 97.92 % N=48 C=1 S=3 D=44 I=0
+lab: YOU   KNOW THOSE OF YOU WHO  RAISED THE OTHER ISSUES LIKE THE VISA WAIVER BECAUSE NOT ALL THE EU COUNTRIES ARE TAKING PART OF THAT I THINK YOU CAN REMEMBER HOW MY COUNTRY HAS WAS LEADING SOME AFFORD IN THAT A YEAR AGO IT WAS ALSO THE SUB 
+rec: THANK               YOU VERY MUCH                                                                                                                                                                                                             
+
+
+utt: voxpopuli_20181212-0900-PLENARY-en_20181212-16:35:22_1
+WER: 100.00 % N=24 C=0 S=2 D=22 I=0
+lab: PROOF THAT THE IMPROVED ADMINISTRATIVE CORPORATION REVIEW THE ANTI MAN LAUNDERING AND SO ON BUT AT THE SAME TIME AS COMMISSIONER HAS MENTIONED WE 
+rec: THANK YOU                                                                                                                                         
+
+
+utt: voxpopuli_20181211-0900-PLENARY-en_20181211-17:01:42_3
+WER: 42.86 % N=21 C=12 S=4 D=5 I=0
+lab: THE SPA WILL SEE THE EU IN  JAPAN STEPPING UP OUR CORPORATION IN AROUND CERTAIN AREAS THE EPA IS CERTAINLY THE 
+rec: THE SBA WILL SEE THE EU AND JAPAN STEPPING UP OUR COOPERATION IN AROUND 30      AREAS                          
+
+
+utt: voxpopuli_20110119-0900-PLENARY-12-en_20110119-19:01:21_10
+WER: 76.19 % N=21 C=5 S=1 D=15 I=0
+lab: LI HAS SHOWN ITS STRONG WELL TO DEEPEN THE RELATIONS WITH EUROPEAN UNION WE COME     TO DO THAT THIS IS POSITIVE 
+rec:                                                                          WE CONSIDER       THAT THIS IS POSITIVE 
+
+
+utt: voxpopuli_20111027-0900-PLENARY-4-en_20111027-11:34:56_16
+WER: 100.00 % N=57 C=0 S=4 D=53 I=0
+lab: THAT  I   REPRESENT A    GROUP WITH MOST NON EUROS ON MEMBERS AND AS A EURO ZONE OUTSIDER OR HOW WE CAN CALL THAT AS AN OBSERVER I HAVE TO SAY THAT MY FEELING IS THAT EURO ZONE AT THE MOMENT DOES NOT SERVE TO ALL ITS 17 MEMBERS BUT JUST A FEW AND I HAVE THE FEELING 
+rec: THANK YOU VERY      MUCH                                                                                                                                                                                                                                                  
+
+
+utt: voxpopuli_20190325-0900-PLENARY-en_20190325-17:43:12_24
+WER: 100.00 % N=64 C=0 S=2 D=62 I=0
+lab: AND   THAT IS WHY WE CALL IN OUR REPORT TO BAN OF GORDON VISA OR SIMILAR SIMILAR INSTRUMENTS AND INCREASE THE TRANSPARENCY DUE DILIGENCE REQUIREMENTS IN THE MEANTIME BEFORE THIS WELL FULFILL LET ME NOW FINISH HERE BY THANKING ALL MY COLLEAGUES IN WORKING ON THIS REPORT ESPECIALLY MISTER KO OUR REPORTER AND ALSO OTHER REPORTER SHADOW REPORTERS AND ESPECIALLY APPRECIATE THE WORK OF 
+rec: THANK YOU                                                                                                                                                                                                                                                                                                                                                                                      
+
+
+utt: voxpopuli_20151124-0900-PLENARY-11-en_20151124-16:09:42_9
+WER: 87.10 % N=31 C=4 S=0 D=27 I=0
+lab: WE WILL BE FACING A LOT OF OBSTACLES BUT I I HOPE THAT EUROPEAN PARLIAMENT WILL PLAY IMPORTANT DECISIVE ROLE IN PROMOTING PROGRESS IN THIS IMPORTANT AREA THANK YOU VERY MUCH 
+rec:                                                                                                                                                           THANK YOU VERY MUCH 
+
+===========================================================================
+
+Overall -> 91.73 % N=266 C=22 S=16 D=228 I=0
+English -> 91.70 % N=265 C=22 S=16 D=227 I=0
+Number -> 100.00 % N=1 C=0 S=0 D=1 I=0
+
+===========================================================================

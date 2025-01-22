@@ -1,0 +1,50 @@
+
+utt: edacc_EDACC-C05_P0_2678
+WER: 90.62 % N=32 C=3 S=7 D=22 I=0
+lab: OKAY AND THIS  SHOULD BE  CORRECT ANSWERING THE 1ST QUESTION THEN WHEN YOU WERE A KID WHAT KIND OF GAMES DID YOU USE TO PLAY AND IS THERE ONE YOU REMEMBER WELL 
+rec: I    AM  GOING TO     TRY TO      ANSWER    THE 1ST QUESTION                                                                                                    
+
+
+utt: edacc_EDACC-C05_P1_2888
+WER: 100.00 % N=5 C=0 S=2 D=3 I=0
+lab: IS    IT  WARM OVER THERE 
+rec: THANK YOU                 
+
+
+utt: edacc_EDACC-C05_P1_2946
+WER: 100.00 % N=5 C=0 S=2 D=3 I=0
+lab: I     MEAN IT IS DEFINITELY 
+rec: THANK YOU                   
+
+
+utt: edacc_EDACC-C05_P1_2970
+WER: 97.92 % N=48 C=1 S=1 D=46 I=0
+lab: I     HAVE NOT NO I I HEARD IT IS REALLY REALLY NICE AND I WANT TO G I REALLY WANT TO TRAVEL A LOT AND I WAS YOU KNOW I WAS PLANNING TO GET MORE INTO TRAVELING AND ALL THAT STUFF BEFORE THE PANDEMIC STARTED AND THEN IT 
+rec: THANK                                                                                                        YOU                                                                                                           
+
+
+utt: voxpopuli_20131211-0900-PLENARY-4-en_20131211-11:22:16_4
+WER: 100.00 % N=11 C=0 S=2 D=9 I=0
+lab: OUR   I   INVENTORIES BECOME RAPIDLY OBSOLETE OUR TECHNOLOGICAL EDGE IS VAN 
+rec: THANK YOU                                                                   
+
+
+utt: voxpopuli_20120314-0900-PLENARY-7-en_20120314-11:31:56_0
+WER: 16.98 % N=53 C=44 S=5 D=4 I=0
+lab: THANK YOU CHAIR I WANT TO WELCOME THE REPORT THE REPORT OF DORIS    PACK IT IS REALISTIC AND THE      BALANCE BUT IT IS DIFFICULT TO AND    7  FROM THE REPORT BECAUSE IT IS NOT I CAN SAY POLITICALLY CORRECT TO LABELING AN ENTIRE COMMUNITY LIKE BEING EXTREMIST  I BELIEVE FOR ALL OF US 
+rec: THANK YOU CHAIR I WANT TO WELCOME THE REPORT            OF DORISPEC      IT IS REALISTIC AND BALANCED         BUT IT IS DIFFICULT TO ACCEPT 27 FROM THE REPORT BECAUSE IT IS NOT I CAN SAY POLITICALLY CORRECT TO LABELING AN ENTIRE COMMUNITY LIKE BEING EXTREMISTS I BELIEVE FOR ALL OF US 
+
+
+utt: voxpopuli_20180116-0900-PLENARY-14-en_20180116-15:19:51_2
+WER: 100.00 % N=20 C=0 S=2 D=18 I=0
+lab: HAVE  TO  STOP HERE EVEN IF WE WE ARE NOT SATISFIED WITH THE RESULT BUT THAT IS THE RULE MAJORITE 
+rec: THANK YOU                                                                                         
+
+===========================================================================
+
+Overall -> 72.41 % N=174 C=48 S=21 D=105 I=0
+English -> 72.67 % N=172 C=47 S=20 D=105 I=0
+Other -> 0.00 % N=1 C=1 S=0 D=0 I=0
+Number -> 100.00 % N=1 C=0 S=1 D=0 I=0
+
+===========================================================================

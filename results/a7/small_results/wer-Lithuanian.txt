@@ -1,0 +1,12 @@
+
+utt: voxpopuli_20170912-0900-PLENARY-26-en_20170912-22:51:47_4
+WER: 30.77 % N=13 C=13 S=0 D=0 I=4
+lab: AS WELL AS DISTORTION TO DEMOCRACY AND POLITICAL PROCESSES THEREFORE IN THIS REPORT                     
+rec: AS WELL AS DISTORTION TO DEMOCRACY AND POLITICAL PROCESSES THEREFORE IN THIS REPORT WE WILL DISCUSS THE 
+
+===========================================================================
+
+Overall -> 30.77 % N=13 C=13 S=0 D=0 I=4
+English -> 30.77 % N=13 C=13 S=0 D=0 I=4
+
+===========================================================================

@@ -1,0 +1,91 @@
+
+utt: vctk_p285_395
+WER: 0.00 % N=6 C=6 S=0 D=0 I=0
+lab: IT WILL TAKE PLACE IN JULY 
+rec: IT WILL TAKE PLACE IN JULY 
+
+
+utt: vctk_p285_038
+WER: 0.00 % N=3 C=3 S=0 D=0 I=0
+lab: IT WAS CLEAR 
+rec: IT WAS CLEAR 
+
+
+utt: vctk_p285_376
+WER: 0.00 % N=3 C=3 S=0 D=0 I=0
+lab: SOMETHING IS WRONG 
+rec: SOMETHING IS WRONG 
+
+
+utt: vctk_p285_248
+WER: 0.00 % N=4 C=4 S=0 D=0 I=0
+lab: IT WAS A HIT 
+rec: IT WAS A HIT 
+
+
+utt: vctk_p285_302
+WER: 0.00 % N=10 C=10 S=0 D=0 I=0
+lab: IN PERFORMANCE THAT QUALITY CAN PROVE TO BE A CHALLENGE 
+rec: IN PERFORMANCE THAT QUALITY CAN PROVE TO BE A CHALLENGE 
+
+
+utt: vctk_p285_216
+WER: 0.00 % N=7 C=7 S=0 D=0 I=0
+lab: BECAUSE THEY DID NOT WANT TO KNOW 
+rec: BECAUSE THEY DID NOT WANT TO KNOW 
+
+
+utt: vctk_p285_381
+WER: 0.00 % N=5 C=5 S=0 D=0 I=0
+lab: IT IS THE OLD STORY 
+rec: IT IS THE OLD STORY 
+
+
+utt: vctk_p285_395
+WER: 0.00 % N=6 C=6 S=0 D=0 I=0
+lab:  IT WILL TAKE PLACE IN JULY 
+rec:  IT WILL TAKE PLACE IN JULY 
+
+
+utt: vctk_p285_038
+WER: 0.00 % N=3 C=3 S=0 D=0 I=0
+lab:  IT WAS CLEAR 
+rec:  IT WAS CLEAR 
+
+
+utt: vctk_p285_376
+WER: 0.00 % N=3 C=3 S=0 D=0 I=0
+lab:  SOMETHING IS WRONG 
+rec:  SOMETHING IS WRONG 
+
+
+utt: vctk_p285_248
+WER: 0.00 % N=4 C=4 S=0 D=0 I=0
+lab:  IT WAS A HIT 
+rec:  IT WAS A HIT 
+
+
+utt: vctk_p285_302
+WER: 0.00 % N=10 C=10 S=0 D=0 I=0
+lab:  IN PERFORMANCE THAT QUALITY CAN PROVE TO BE A CHALLENGE 
+rec:  IN PERFORMANCE THAT QUALITY CAN PROVE TO BE A CHALLENGE 
+
+
+utt: vctk_p285_216
+WER: 0.00 % N=7 C=7 S=0 D=0 I=0
+lab:  BECAUSE THEY DID NOT WANT TO KNOW 
+rec:  BECAUSE THEY DID NOT WANT TO KNOW 
+
+
+utt: vctk_p285_381
+WER: 0.00 % N=5 C=5 S=0 D=0 I=0
+lab:  IT IS THE OLD STORY 
+rec:  IT IS THE OLD STORY 
+
+===========================================================================
+
+Overall -> 0.00 % N=76 C=76 S=0 D=0 I=0
+English -> 0.00 % N=76 C=76 S=0 D=0 I=0
+Other -> 0.00 % N=0 C=0 S=0 D=0 I=0
+
+===========================================================================

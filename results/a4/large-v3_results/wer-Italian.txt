@@ -1,0 +1,102 @@
+
+utt: edacc_EDACC-C01_364
+WER: 97.22 % N=36 C=1 S=1 D=34 I=0
+lab: YEAH  YEAH YEAH HONG KONG IS VERY ENGLISH FRIENDLY IT IS IT IS IT WAS A FORMER COLONY SO IT IS VERY ENGLISHIZED BUT AT THE SAME TIME YOU SEE A LOT OF THE CHINESE CULTURE 
+rec: THANK                                                                                                                                YOU                                  
+
+
+utt: edacc_EDACC-C53_1826
+WER: 92.86 % N=14 C=1 S=1 D=12 I=0
+lab: AND   THAT MAY YOU KNOW HUR HURT HURT YOUR YOUR HAIR AND DAMAGE IT 
+rec: THANK          YOU                                                 
+
+
+utt: edacc_EDACC-C53_1880
+WER: 15.00 % N=20 C=18 S=0 D=2 I=1
+lab: YES AT THE AT THE MOMENT IT IS NOT POSSIBLE BUT YES I THINK I WILL VISIT THE CITY LATER    
+rec: YES AT THE        MOMENT IT IS NOT POSSIBLE BUT YES I THINK I WILL VISIT THE CITY LATER ON 
+
+
+utt: edacc_EDACC-C53_1905
+WER: 27.27 % N=11 C=8 S=0 D=3 I=0
+lab: YES BECAUSE WE HAVE TO SO MUCH WORK TO DO STILL 
+rec:             WE HAVE    SO MUCH WORK TO DO STILL 
+
+
+utt: edacc_EDACC-C54_1950
+WER: 22.22 % N=9 C=7 S=1 D=1 I=0
+lab: OKAY WOW MAD RESPECT FELLOW ARTIST I  LIKE THAT 
+rec: OKAY WOW     RESPECT FELLOW ARTIST WE LIKE THAT 
+
+
+utt: edacc_EDACC-C57_P1_3955
+WER: 33.33 % N=24 C=16 S=1 D=7 I=0
+lab: I WANT TO KNOW BUT WHAT IS YOUR NEPHEW GOING TO DOING IN IN IN IN IN SCOTLAND WHERE IS HE WHERE IS HE 
+rec: I WANT TO KNOW BUT WHAT IS YOUR NEPHEW GOING TO DO    IN             SCOTLAND WHERE IS HE             
+
+
+utt: voxpopuli_20110407-0900-PLENARY-9-en_20110407-15:06:54_7
+WER: 100.00 % N=35 C=0 S=2 D=33 I=0
+lab: WE    CALL FOR HIS IMMEDIATE RELEASE IN THIS HOUSE AND WE EXPRESS REGRET ONCE AGAIN THAT CHINA GOES TO SUCH EXTREME LENGTHS AGAINST THOSE WHO DARE SPEAK OUT FOR THEIR BASIC AND FUNDAMENTAL HUMAN RIGHTS 
+rec: THANK YOU                                                                                                                                                                                                 
+
+
+utt: voxpopuli_20140227-0900-PLENARY-3-en_20140227-08:46:27_6
+WER: 100.00 % N=30 C=0 S=4 D=26 I=0
+lab: PRESIDENT MADURO WHO  IS   BEHAVING INCREASING INCREASINGLY LIKE HIS MENTOR CA CASTRO IS CUBA CASTRO IN CUBA MUST RELEASE THE OPPOSITION FIGURES HE MUST RELEASE THE JOURNALISTS AND THE STUDENT 
+rec: THANK     YOU    VERY MUCH                                                                                                                                                                       
+
+
+utt: voxpopuli_20171003-0900-PLENARY-14-en_20171003-18:56:21_10
+WER: 53.85 % N=13 C=6 S=0 D=7 I=0
+lab: ELIMINATE SUBSID OF FOSSIL FUELS RIGHT NOW THERE IS NOTHING ELSE TO DO 
+rec:                                            THERE IS NOTHING ELSE TO DO 
+
+
+utt: voxpopuli_20120215-0900-PLENARY-12-en_20120215-16:44:04_2
+WER: 100.00 % N=48 C=0 S=2 D=46 I=0
+lab: ATTACK CONDEMNATION OF THE REGIME AND TURKEY IS ROLE IN PARTICULAR ACCEPTING REFUGEES COMMENDABLE THE ARAB LEAGUE IN SEEKING TO END THE VIOLENCE AND IN PRODUCING A NEW PEACE PLAN SHOULD ALSO BE CONGRATULATED WHICH THE SYRIAN REGIME MUST IMPLEMENT WITHOUT DELAY SYRIA MUST BE MADE TO GUARANTEE 
+rec: THANK  YOU                                                                                                                                                                                                                                                                                           
+
+
+utt: voxpopuli_20121121-0900-PLENARY-9-en_20121121-16:50:18_0
+WER: 100.00 % N=38 C=0 S=2 D=36 I=0
+lab: MISTER PRESIDENT WITH ALL THE CRISES GOING ON THE WORLD SUCH AS THE EURO ZONE ONE THE THE FISCAL CLIFF IN THE US ET CETERA A NUCLEAR IRAN FOR EXAMPLE CLIMATE CHANGE HAS SOMEWHAT FALLEN DOWN THE POLITICAL 
+rec: THANK  YOU                                                                                                                                                                                                  
+
+
+utt: voxpopuli_20120417-0900-PLENARY-11-en_20120417-20:48:39_6
+WER: 85.71 % N=14 C=2 S=0 D=12 I=0
+lab: FOR ONCE I AM CAUTIOUSLY OPTIMISTIC ABOUT THIS BEAUTIFUL COUNTRY THANK YOU THANK YOU 
+rec:                                                                  THANK YOU           
+
+
+utt: voxpopuli_20110309-0900-PLENARY-14-en_20110309-13:24:36_0
+WER: 7.14 % N=28 C=27 S=1 D=0 I=1
+lab: THANK YOU MISTER PRESIDENT MY GROUP IS SUPPORTING THIS REPORT BECAUSE IT MOVES IN THE RIGHT DIRECTION CALLING FOR A AEU STRATEGY AND A ROADMAP FOR THE      INCLUSION 
+rec: THANK YOU MISTER PRESIDENT MY GROUP IS SUPPORTING THIS REPORT BECAUSE IT MOVES IN THE RIGHT DIRECTION CALLING FOR A EU  STRATEGY AND A ROADMAP FOR THE ROMA INCLUSION 
+
+
+utt: voxpopuli_20121210-0900-PLENARY-28-en_20121210-18:20:05_1
+WER: 100.00 % N=20 C=0 S=2 D=18 I=0
+lab: I     NEVER SAY THAT THERE ARE NO REGULATIONAL HUMOR RIGHTS I SAY THEY ARE STILL OCCURRING AND THEY ARE STILL 
+rec: THANK YOU                                                                                                     
+
+
+utt: voxpopuli_20130911-0900-PLENARY-6-en_20130911-14:59:17_5
+WER: 100.00 % N=26 C=0 S=2 D=24 I=0
+lab: AND   THIS DOES NOT SOLVE THE PROBLEM OF COURSE OF IMPUNITY FOR WAR CRIMES ALREADY CLEARLY CARRIED OUT BY BOTH SIDES NEITHER DOES IT ENSURE RETURN 
+rec: THANK YOU                                                                                                                                          
+
+
+utt: voxpopuli_20131209-0900-PLENARY-16-en_20131209-19:52:29_2
+WER: 100.00 % N=43 C=0 S=2 D=41 I=0
+lab: OTHERWISE THEY COULD HAVE EXCLUDED FROM THEIR ACCORD THE WATERS WESTERN SAHARA FOLLOWING THE EXAMPLE OF THE CONGRESS OF THE US AND OF THE US GOVERNMENT THAT DO NOT INCLUDE WESTERN SAHARA IN ANY ECONOMIC AGREEMENT WITH THE MOROCCO ALL THAT HAS NOT 
+rec: THANK     YOU                                                                                                                                                                                                                                          
+
+===========================================================================
+
+Overall -> 79.46 % N=409 C=86 S=21 D=302 I=2
+English -> 79.46 % N=409 C=86 S=21 D=302 I=2
+
+===========================================================================

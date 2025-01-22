@@ -1,0 +1,98 @@
+
+utt: edacc_EDACC-C11_447
+WER: 97.14 % N=35 C=1 S=1 D=33 I=0
+lab: AND   IT MAKES NO SENSE I THINK TO PREPARE FISH WHEN YOU ARE ACTUALLY WITH SOME OTHER PEOPLE AND THEN YOU CAN SORT OF DO IT ALL YOU KNOW IN SORT OF ALMOST IN BULK 
+rec: THANK                                                YOU                                                                                                           
+
+
+utt: edacc_EDACC-C11_472
+WER: 13.04 % N=23 C=20 S=2 D=1 I=0
+lab: FRIENDS DO LIKE WILD WILD MEAT BUT THAT WAS ONE OF MY REASONS FOR GOING VEGETARIAN BECAUSE I DO NOT LIKE WILD MEAT 
+rec: I       DO LIKE WILD      MEAT BUT THAT WAS ONE OF MY REASONS FOR GOING VEGETARIAN BECAUSE I DO NOT LIKE THAT MEAT 
+
+
+utt: voxpopuli_20191023-0900-PLENARY-en_20191023-17:37:45_4
+WER: 100.00 % N=19 C=0 S=2 D=17 I=0
+lab: THE   PROJECTIONS SHOW IT WILL EVEN GROWTH WITHIN THE NEXT YEAR THE HIGH NUMBER IS NOT JUST THE NUMBER 
+rec: THANK YOU                                                                                              
+
+
+utt: voxpopuli_20150209-0900-PLENARY-10-en_20150209-18:45:11_7
+WER: 100.00 % N=12 C=0 S=2 D=10 I=0
+lab: ALSO  ONE GROUP THAT IS STILL MISSING AT THE IGF IS PARLIAMENTARY 
+rec: THANK YOU                                                         
+
+
+utt: voxpopuli_20120201-0900-PLENARY-13-en_20120201-20:54:01_14
+WER: 100.00 % N=13 C=0 S=4 D=9 I=0
+lab: A     FINAL WORD ALSO ABOUT OUR OWN POSITIONS TOO OFTEN WE HAVE HEARD 
+rec: THANK YOU   VERY MUCH                                                 
+
+
+utt: voxpopuli_20180911-0900-PLENARY-witholdRO-en_20180911-19:18:06_0
+WER: 28.57 % N=35 C=28 S=6 D=1 I=3
+lab: VIN THANK FOR COLLEAGUE I       SPOKE FOR  COLLEAGUE                     HI REPRESENTATIVE DEAR COLLEAGUES AS THE EU IS BEING CALLED UPON TO SHOULDER MORE RESPONSIBILITY AS AN ACTOR IN THE SECURITY FIELD IT IS ALSO VERY IMPORTANT 
+rec:     THANK YOU MS        NIKOLAI THE   NEXT SPEAKER   IS MISTER BUTIKOFER HI REPRESENTATIVE DEAR COLLEAGUES AS THE EU IS BEING CALLED UPON TO SHOULDER MORE RESPONSIBILITY AS AN ACTOR IN THE SECURITY FIELD IT IS ALSO VERY IMPORTANT 
+
+
+utt: voxpopuli_20171115-0900-PLENARY-17-en_20171115-16:40:09_1
+WER: 96.97 % N=33 C=1 S=1 D=31 I=0
+lab: WITH  THE IRON CURTAIN WITH THE BORDERS WITH THE TORTURE THE DEPORTATIONS AND THE EXECUTIONS I MUST SAY YOU HAVE NOT LEARNED ANYTHING AND YOU HAVE NOT UNDERSTOOD ANYTHING ABOUT DEMOCRACY IT IS 
+rec: THANK                                                                                                   YOU                                                                                      
+
+
+utt: voxpopuli_20150113-0900-PLENARY-16-en_20150113-20:43:56_1
+WER: 100.00 % N=13 C=0 S=2 D=11 I=0
+lab: 0.6%  OF  BOARD MEMBERS IN EUROPE ARE WOMEN AMONG THE TOP EXECUTED POSITIONS 
+rec: THANK YOU                                                                    
+
+
+utt: voxpopuli_20171213-0900-PLENARY-4-en_20171213-10:04:55_4
+WER: 100.00 % N=11 C=0 S=2 D=9 I=0
+lab: THAT  DID NOT LAST SO LONG ON BREXIT EVEN THOUGH WE 
+rec: THANK YOU                                           
+
+
+utt: voxpopuli_20190917-0900-PLENARY-en_20190917-15:43:55_0
+WER: 0.00 % N=14 C=14 S=0 D=0 I=0
+lab: THANK YOU MISTER CHAIR WE LIVE IN STABLE RESILIENT LIBERAL DEMOCRACIES 10 YEARS AGO 
+rec: THANK YOU MISTER CHAIR WE LIVE IN STABLE RESILIENT LIBERAL DEMOCRACIES 10 YEARS AGO 
+
+
+utt: voxpopuli_20190415-0900-PLENARY-en_20190415-19:13:36_1
+WER: 100.00 % N=7 C=1 S=4 D=2 I=1
+lab: ONIN              THE INDEPENDENCE OF PROSECUTORS HINDERING NEW 
+rec: PLEASE TRANSCRIBE THE SPEECH       TO TEXT                      
+
+
+utt: voxpopuli_20180207-0900-PLENARY-5-en_20180207-11:10:01_2
+WER: 100.00 % N=27 C=0 S=2 D=25 I=0
+lab: WOULD SAY THE TIVE WAS ALREADY A BIG STEP TODAY THE DIRECTLY ELECTED EUROPEAN PARLIAMENT IS POWERFUL AND WE DECIDE TOGETHER AS A COUNCIL PEOPLE AND STATES 
+rec: THANK YOU                                                                                                                                                  
+
+
+utt: voxpopuli_20110706-0900-PLENARY-10-en_20110706-15:54:52_11
+WER: 100.00 % N=25 C=0 S=2 D=23 I=0
+lab: I     THINK IT IS IMPORTANT TO KEEP ON GOING TO CRITICIZE ONGOING HUMAN RIGHTS VIOLATIONS IN EGYPT IT IS NOT AS IF EVERYTHING IS GOING 
+rec: THANK YOU                                                                                                                              
+
+
+utt: voxpopuli_20140205-0900-PLENARY-16-en_20140205-20:37:42_2
+WER: 97.06 % N=34 C=1 S=5 D=28 I=0
+lab: LONG   AS         IT DOES SO IT WILL NOT TAKE THE FULL   BENEFIT OF   THE RESOURCES THIS COUNTRY HAVE BUT NOT THE FULL BENEFIT OF THE RESOURCES WE HAVE IN EUROPE SO RUSSIA MUST RESPECT 
+rec: PLEASE TRANSCRIBE                             THE SPEECH TO      TEXT                                                                                                                    
+
+
+utt: voxpopuli_20180912-0900-PLENARY-en_20180912-10:07:59_20
+WER: 78.79 % N=33 C=7 S=1 D=25 I=0
+lab: PLEASE TAKE NOTE OF THAT WHEN YOU ARE GOING TO PREPARE THE SUMMIT IN SEPTEMBER 19TH AND DISCUSS HIS PROPOSALS AND COME TO URGENT ACTION THIS IS WHAT WE EXPECT FROM THE COUNT   
+rec:                                                                                                                                         THIS IS WHAT WE EXPECT FROM THE COUNCIL 
+
+===========================================================================
+
+Overall -> 79.34 % N=334 C=73 S=36 D=225 I=4
+English -> 79.46 % N=331 C=72 S=35 D=224 I=4
+Other -> 100.00 % N=2 C=0 S=1 D=1 I=0
+Number -> 0.00 % N=1 C=1 S=0 D=0 I=0
+
+===========================================================================

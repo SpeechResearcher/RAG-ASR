@@ -1,0 +1,12 @@
+
+utt: voxpopuli_20140115-0900-PLENARY-16-en_20140115-19:22:14_22
+WER: 12.12 % N=33 C=29 S=1 D=3 I=0
+lab: AND I AM ABSOLUTELY CERTAIN THAT THE EU WILL NOT BE A WHOLE UNTIL THE LAST COUNTRY OF THE WESTERN BULL    CAN JOINS THE UNION THE UNION I HOPE THAT BY THE END 
+rec: AND I AM ABSOLUTELY CERTAIN THAT THE EU WILL NOT BE A WHOLE UNTIL THE LAST COUNTRY OF THE WESTERN BALKANS     JOINS THE UNION           I HOPE THAT BY THE END 
+
+===========================================================================
+
+Overall -> 12.12 % N=33 C=29 S=1 D=3 I=0
+English -> 12.12 % N=33 C=29 S=1 D=3 I=0
+
+===========================================================================

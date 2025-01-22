@@ -1,0 +1,55 @@
+
+utt: voxpopuli_20090325-0900-PLENARY-8-en_20090325-16:46:50_7
+WER: 97.92 % N=48 C=1 S=4 D=43 I=0
+lab: YOU        KNOW THOSE OF YOU WHO RAISED THE OTHER  ISSUES LIKE THE VISA WAIVER BECAUSE NOT ALL THE EU COUNTRIES ARE TAKING PART OF THAT I THINK YOU CAN REMEMBER HOW MY COUNTRY HAS WAS LEADING SOME AFFORD IN THAT A YEAR AGO IT WAS ALSO THE SUB 
+rec: TRANSCRIBE                              THE SPEECH TO     TEXT                                                                                                                                                                                     
+
+
+utt: voxpopuli_20181212-0900-PLENARY-en_20181212-16:35:22_1
+WER: 100.00 % N=24 C=0 S=2 D=22 I=0
+lab: PROOF THAT THE IMPROVED ADMINISTRATIVE CORPORATION REVIEW THE ANTI MAN LAUNDERING AND SO ON BUT AT THE SAME TIME AS COMMISSIONER HAS MENTIONED WE 
+rec: THANK YOU                                                                                                                                         
+
+
+utt: voxpopuli_20181211-0900-PLENARY-en_20181211-17:01:42_3
+WER: 100.00 % N=21 C=0 S=2 D=19 I=0
+lab: THE   SPA WILL SEE THE EU IN JAPAN STEPPING UP OUR CORPORATION IN AROUND CERTAIN AREAS THE EPA IS CERTAINLY THE 
+rec: THANK YOU                                                                                                       
+
+
+utt: voxpopuli_20150128-0900-PLENARY-8-en_20150128-17:29:55_24
+WER: 100.00 % N=9 C=0 S=2 D=7 I=0
+lab: 2     REMARKS ONE TO TO FINISH WITH ONE IS 
+rec: THANK YOU                                  
+
+
+utt: voxpopuli_20110119-0900-PLENARY-12-en_20110119-19:01:21_10
+WER: 100.00 % N=21 C=0 S=2 D=19 I=0
+lab: LI    HAS SHOWN ITS STRONG WELL TO DEEPEN THE RELATIONS WITH EUROPEAN UNION WE COME TO DO THAT THIS IS POSITIVE 
+rec: THANK YOU                                                                                                       
+
+
+utt: voxpopuli_20111027-0900-PLENARY-4-en_20111027-11:34:56_16
+WER: 49.12 % N=57 C=36 S=6 D=15 I=7
+lab: THAT                                 I REPRESENT A GROUP WITH MOST NON EUROS    ON MEMBERS AND AS A  EURO     ZONE OUTSIDER OR HOW WE CAN CALL THAT AS AN OBSERVER I HAVE TO SAY THAT MY FEELING IS THAT EURO ZONE     AT THE MOMENT DOES NOT SERVE TO ALL ITS 17 MEMBERS BUT JUST A FEW AND I HAVE THE FEELING 
+rec: I    AM NOT A MEMBER OF THE EUROZONE I REPRESENT A GROUP WITH MOST NON EUROZONE    MEMBERS     AS AN EUROZONE      OUTSIDER                         AS AN OBSERVER I HAVE TO SAY THAT MY FEELING IS THAT THE  EUROZONE AT THE MOMENT DOES NOT SERVE    ALL ITS 17 MEMBERS BUT JUST A FEW                        
+
+
+utt: voxpopuli_20160412-0900-PLENARY-12-en_20160412-18:22:20_4
+WER: 100.00 % N=23 C=0 S=2 D=21 I=0
+lab: ALSO  IT  SHOULD BE NOTED THAT THE MANY CASES IN PANAMA PAPERS ARE ARE A LITTLE BIT OLDER I AM SAYING THAT BECAUSE 
+rec: THANK YOU                                                                                                          
+
+
+utt: voxpopuli_20151124-0900-PLENARY-11-en_20151124-16:09:42_9
+WER: 93.55 % N=31 C=2 S=0 D=29 I=0
+lab: WE WILL BE FACING A LOT OF OBSTACLES BUT I I HOPE THAT EUROPEAN PARLIAMENT WILL PLAY IMPORTANT DECISIVE ROLE IN PROMOTING PROGRESS IN THIS IMPORTANT AREA THANK YOU VERY MUCH 
+rec:                                                                                                                                                           THANK YOU           
+
+===========================================================================
+
+Overall -> 86.32 % N=234 C=39 S=20 D=175 I=7
+English -> 86.64 % N=232 C=38 S=19 D=175 I=7
+Number -> 50.00 % N=2 C=1 S=1 D=0 I=0
+
+===========================================================================

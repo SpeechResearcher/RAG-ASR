@@ -1,0 +1,25 @@
+
+utt: edacc_EDACC-C59_4073
+WER: 24.49 % N=49 C=38 S=4 D=7 I=1
+lab: 0 BUT YOU KNOW I COME TO HA LONG WITH MY FRIENDS AND MY FAMILY YEAH WITH      MANY PEOPLE SO I THINK I GO TO THE RESTAURANT IS SUITABLE FOR ME SO CAN YOU RECOMMEND TO ME S THE NAME OF THE RESTAURANT THAT I I I JUST GO 
+rec: 0 BUT YOU KNOW I COME TO A  LOT  WITH MY FRIENDS AND MY FAMILY WHEN THERE ARE MANY PEOPLE SO I THINK I GO TO THE RESTAURANT IS SUITABLE FOR ME SO CAN YOU RECOMMEND TO ME   THE NAME OF THE RESTAURANT                    
+
+
+utt: edacc_EDACC-C59_4092
+WER: 20.00 % N=15 C=12 S=0 D=3 I=0
+lab: OKAY SO IF YOU HAVE ANY PROBLEM JUST PLEASE TELL ME I WILL HELP YOU 
+rec:         IF YOU HAVE ANY PROBLEM      PLEASE TELL ME I WILL HELP YOU 
+
+
+utt: edacc_EDACC-C67_4358
+WER: 100.00 % N=20 C=0 S=2 D=18 I=0
+lab: WELL  NOT NOT NO ALL ALL ALL OF US BUT I THINK THAT THERE MA NOW MORE AND MORE PEOPLE 
+rec: THANK YOU                                                                             
+
+===========================================================================
+
+Overall -> 41.67 % N=84 C=50 S=6 D=28 I=1
+Number -> 0.00 % N=1 C=1 S=0 D=0 I=0
+English -> 42.17 % N=83 C=49 S=6 D=28 I=1
+
+===========================================================================

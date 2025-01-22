@@ -1,0 +1,19 @@
+
+utt: edacc_EDACC-C62_2306
+WER: 0.00 % N=11 C=11 S=0 D=0 I=0
+lab: OKAY SO WHAT DO YOU LIKE DOING IN YOUR FREE TIME 
+rec: OKAY SO WHAT DO YOU LIKE DOING IN YOUR FREE TIME 
+
+
+utt: edacc_EDACC-C59_4073
+WER: 65.31 % N=49 C=17 S=3 D=29 I=0
+lab: 0 BUT YOU KNOW I COME TO HA LONG WITH MY FRIENDS AND MY FAMILY YEAH WITH MANY PEOPLE SO I THINK I   GO   TO THE RESTAURANT IS SUITABLE FOR ME SO CAN YOU RECOMMEND TO ME S THE NAME OF THE RESTAURANT THAT I I I JUST GO 
+rec:                I                                                                          THINK THE REST OF THE RESTAURANT IS SUITABLE FOR ME    CAN YOU RECOMMEND    ME   THE NAME OF THE RESTAURANT                    
+
+===========================================================================
+
+Overall -> 53.33 % N=60 C=28 S=3 D=29 I=0
+English -> 52.54 % N=59 C=28 S=3 D=28 I=0
+Number -> 100.00 % N=1 C=0 S=0 D=1 I=0
+
+===========================================================================

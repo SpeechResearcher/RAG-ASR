@@ -1,0 +1,133 @@
+
+utt: vctk_p363_111
+WER: 0.00 % N=5 C=5 S=0 D=0 I=0
+lab: WE ARE MAKING NO COMMENT 
+rec: WE ARE MAKING NO COMMENT 
+
+
+utt: vctk_p363_126
+WER: 0.00 % N=4 C=4 S=0 D=0 I=0
+lab: HE ANNOUNCED HIS PLANS 
+rec: HE ANNOUNCED HIS PLANS 
+
+
+utt: vctk_p363_208
+WER: 0.00 % N=6 C=6 S=0 D=0 I=0
+lab: THAT DECISION IS NOW BEING APPEALED 
+rec: THAT DECISION IS NOW BEING APPEALED 
+
+
+utt: vctk_p363_145
+WER: 0.00 % N=7 C=7 S=0 D=0 I=0
+lab: WE COULD EASILY HAVE LOST THAT GAME 
+rec: WE COULD EASILY HAVE LOST THAT GAME 
+
+
+utt: vctk_p363_085
+WER: 0.00 % N=6 C=6 S=0 D=0 I=0
+lab: IT WAS THAT KIND OF WAR 
+rec: IT WAS THAT KIND OF WAR 
+
+
+utt: vctk_p363_125
+WER: 0.00 % N=5 C=5 S=0 D=0 I=0
+lab: THIS IS NOT A PROBLEM 
+rec: THIS IS NOT A PROBLEM 
+
+
+utt: vctk_p363_363
+WER: 0.00 % N=4 C=4 S=0 D=0 I=0
+lab: IT WAS GREAT FUN 
+rec: IT WAS GREAT FUN 
+
+
+utt: vctk_p363_395
+WER: 0.00 % N=8 C=8 S=0 D=0 I=0
+lab: PLAYERS ARE FIGHTING TO STAY IN THE TEAM 
+rec: PLAYERS ARE FIGHTING TO STAY IN THE TEAM 
+
+
+utt: vctk_p363_292
+WER: 0.00 % N=6 C=6 S=0 D=0 I=0
+lab: IT WAS AN ACHIEVEMENT ALL RIGHT 
+rec: IT WAS AN ACHIEVEMENT ALL RIGHT 
+
+
+utt: vctk_p363_084
+WER: 0.00 % N=6 C=6 S=0 D=0 I=0
+lab: THEY ARE DIFFICULT AWARDS TO DECIDE 
+rec: THEY ARE DIFFICULT AWARDS TO DECIDE 
+
+
+utt: vctk_p363_111
+WER: 0.00 % N=5 C=5 S=0 D=0 I=0
+lab:  WE ARE MAKING NO COMMENT 
+rec:  WE ARE MAKING NO COMMENT 
+
+
+utt: vctk_p363_126
+WER: 0.00 % N=4 C=4 S=0 D=0 I=0
+lab:  HE ANNOUNCED HIS PLANS 
+rec:  HE ANNOUNCED HIS PLANS 
+
+
+utt: vctk_p363_208
+WER: 0.00 % N=6 C=6 S=0 D=0 I=0
+lab:  THAT DECISION IS NOW BEING APPEALED 
+rec:  THAT DECISION IS NOW BEING APPEALED 
+
+
+utt: vctk_p363_145
+WER: 0.00 % N=7 C=7 S=0 D=0 I=0
+lab:  WE COULD EASILY HAVE LOST THAT GAME 
+rec:  WE COULD EASILY HAVE LOST THAT GAME 
+
+
+utt: vctk_p363_085
+WER: 0.00 % N=6 C=6 S=0 D=0 I=0
+lab:  IT WAS THAT KIND OF WAR 
+rec:  IT WAS THAT KIND OF WAR 
+
+
+utt: vctk_p363_125
+WER: 0.00 % N=5 C=5 S=0 D=0 I=0
+lab:  THIS IS NOT A PROBLEM 
+rec:  THIS IS NOT A PROBLEM 
+
+
+utt: vctk_p363_363
+WER: 0.00 % N=4 C=4 S=0 D=0 I=0
+lab:  IT WAS GREAT FUN 
+rec:  IT WAS GREAT FUN 
+
+
+utt: vctk_p363_420
+WER: 0.00 % N=5 C=5 S=0 D=0 I=0
+lab: BOTH WERE REDUCED TO RUBBLE 
+rec: BOTH WERE REDUCED TO RUBBLE 
+
+
+utt: vctk_p363_395
+WER: 0.00 % N=8 C=8 S=0 D=0 I=0
+lab:  PLAYERS ARE FIGHTING TO STAY IN THE TEAM 
+rec:  PLAYERS ARE FIGHTING TO STAY IN THE TEAM 
+
+
+utt: vctk_p363_292
+WER: 0.00 % N=6 C=6 S=0 D=0 I=0
+lab:  IT WAS AN ACHIEVEMENT ALL RIGHT 
+rec:  IT WAS AN ACHIEVEMENT ALL RIGHT 
+
+
+utt: vctk_p363_084
+WER: 0.00 % N=6 C=6 S=0 D=0 I=0
+lab:  THEY ARE DIFFICULT AWARDS TO DECIDE 
+rec:  THEY ARE DIFFICULT AWARDS TO DECIDE 
+
+===========================================================================
+
+Overall -> 0.00 % N=119 C=119 S=0 D=0 I=0
+English -> 0.00 % N=119 C=119 S=0 D=0 I=0
+Other -> 0.00 % N=0 C=0 S=0 D=0 I=0
+
+===========================================================================
