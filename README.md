@@ -24,3 +24,6 @@ The raw audio data files are from [VCTK](https://datashare.ed.ac.uk/handle/10283
 - **duration**: Duration of the audio file.
 - **split**: Split for training, validataion and test.
 
+### Cosyvoice2
+
+> https://colab.research.google.com/drive/1iJ87hM4Dk_FB4dYKJwUmX9gmgKgmOt1B?usp=sharing
